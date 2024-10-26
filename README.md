@@ -5,6 +5,7 @@ This is an experiment to try writing a Pac-Man code using mineflayer-pathfinder 
 Amonimus
 
 # Requirements and Installation
+0. This is for Windows.
 1. Have a Minecraft Launcher installed. You may need an official one from Microsoft.
 2. Install Minecraft Java Edition 1.20.4 client from the Launcher.
 3. Install a Spigot/Bukkit Minecraft Server specifically for 1.20.4. (https://www.spigotmc.org/wiki/buildtools/)
