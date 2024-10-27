@@ -1,0 +1,1359 @@
+[00:56:29] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[00:56:32] [ServerMain/INFO]: Loaded 7 recipes
+[00:56:34] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[00:56:34] [Server thread/INFO]: Loading properties
+[00:56:34] [Server thread/INFO]: This server is running CraftBukkit version 4090-Spigot-b754dcc-38b1f49 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT)
+[00:56:35] [Server thread/INFO]: Debug logging is disabled
+[00:56:35] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[00:56:35] [Server thread/INFO]: Using 4 threads for Netty based IO
+[00:56:35] [Server thread/INFO]: Default game type: CREATIVE
+[00:56:35] [Server thread/INFO]: Generating keypair
+[00:56:35] [Server thread/INFO]: Starting Minecraft server on localhost:25565
+[00:56:36] [Server thread/INFO]: Using default channel type
+[00:56:36] [Server thread/INFO]: [AntiDisconnectSpam] Loading AntiDisconnectSpam v2.1.1
+[00:56:36] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.3.8+6939-7d32b45
+[00:56:37] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@6780f1f2]
+[00:56:37] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.3.8+6939-7d32b45
+[00:56:37] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[00:56:37] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[00:56:37] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_20_R3.PaperweightAdapter as the Bukkit adapter
+[00:56:39] [Server thread/INFO]: [WorldEdit] ====================================================
+[00:56:39] [Server thread/INFO]: [WorldEdit]  WorldEdit works better if you use Paper 
+[00:56:39] [Server thread/INFO]: [WorldEdit]  as your server software. 
+[00:56:39] [Server thread/INFO]: [WorldEdit]   
+[00:56:39] [Server thread/INFO]: [WorldEdit]  Paper offers significant performance improvements,
+[00:56:39] [Server thread/INFO]: [WorldEdit]  bug fixes, security enhancements and optional
+[00:56:39] [Server thread/INFO]: [WorldEdit]  features for server owners to enhance their server.
+[00:56:39] [Server thread/INFO]: [WorldEdit]   
+[00:56:39] [Server thread/INFO]: [WorldEdit]  Paper includes Timings v2, which is significantly
+[00:56:39] [Server thread/INFO]: [WorldEdit]  better at diagnosing lag problems over v1.
+[00:56:39] [Server thread/INFO]: [WorldEdit]   
+[00:56:39] [Server thread/INFO]: [WorldEdit]  All of your plugins should still work, and the
+[00:56:39] [Server thread/INFO]: [WorldEdit]  Paper community will gladly help you fix any issues.
+[00:56:39] [Server thread/INFO]: [WorldEdit]   
+[00:56:39] [Server thread/INFO]: [WorldEdit]  Join the Paper Community @ https://papermc.io
+[00:56:39] [Server thread/INFO]: [WorldEdit] ====================================================
+[00:56:39] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:56:39] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:56:39] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:56:39] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:56:39] [Server thread/INFO]: Preparing level "pacman_bot"
+[00:56:40] [Server thread/INFO]: -------- World Settings For [pacman_bot] --------
+[00:56:40] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[00:56:40] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:56:40] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:56:40] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:56:40] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:56:40] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:56:40] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:56:40] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[00:56:40] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[00:56:40] [Server thread/INFO]: Potato Growth Modifier: 100%
+[00:56:40] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:56:40] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:56:40] [Server thread/INFO]: Vine Growth Modifier: 100%
+[00:56:40] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[00:56:40] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[00:56:40] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[00:56:40] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[00:56:40] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[00:56:40] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[00:56:40] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[00:56:40] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[00:56:40] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[00:56:40] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:56:40] [Server thread/INFO]: Max TNT Explosions: 100
+[00:56:40] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:56:40] [Server thread/INFO]: Mob Spawn Range: 6
+[00:56:40] [Server thread/INFO]: Item Merge Radius: 2.5
+[00:56:40] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:56:40] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[00:56:40] [Server thread/INFO]: Simulation Distance: 10
+[00:56:40] [Server thread/INFO]: View Distance: 10
+[00:56:40] [Server thread/INFO]: Item Despawn Rate: 6000
+[00:56:40] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[00:56:40] [Server thread/INFO]: Experience Merge Radius: 3.0
+[00:56:40] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:56:40] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:56:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:56:46] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[00:56:46] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[00:56:46] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[00:56:46] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[00:56:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:56:46] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[00:56:46] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[00:56:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:56:46] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[00:56:46] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[00:56:46] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[00:56:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:56:47] [Worker-Main-3/INFO]: Preparing spawn area: 66%
+[00:56:47] [Server thread/INFO]: Time elapsed: 6683 ms
+[00:56:47] [Server thread/INFO]: [AntiDisconnectSpam] Enabling AntiDisconnectSpam v2.1.1
+[00:56:47] [Server thread/INFO]: [AntiDisconnectSpam] Starting...
+[00:56:47] [Server thread/INFO]: [AntiDisconnectSpam] Loading configs...
+[00:56:47] [Server thread/INFO]: Config plugins/AntiDisconnectSpam/config.json loaded!
+[00:56:47] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[00:56:52] [Server thread/INFO]: [AntiDisconnectSpam] Configs loaded!
+[00:56:52] [Server thread/INFO]: [AntiDisconnectSpam] Started!
+[00:56:52] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[00:56:52] [Server thread/INFO]: Done (13.005s)! For help, type "help"
+[01:02:13] [User Authenticator #1/INFO]: UUID of player Am0nimus is b87b414d-f2f0-33b1-9b51-1e09f704f68d
+[01:02:13] [Server thread/INFO]: Am0nimus joined the game
+[01:02:13] [Server thread/INFO]: Am0nimus[/127.0.0.1:61400] logged in with entity id 2 at ([pacman_bot]2.30069312115716, -60.0, 1.1714984337680887)
+[01:02:23] [User Authenticator #2/INFO]: UUID of player Inky is a0e0d8a8-af27-3226-864b-2f45f8841cbe
+[01:02:23] [User Authenticator #3/INFO]: UUID of player Pacman is a577b3fa-03e9-367c-866d-a7c7ecb866d7
+[01:02:23] [User Authenticator #4/INFO]: UUID of player Blinky is dfa9c900-e7ef-3128-9f72-410669215aa6
+[01:02:23] [User Authenticator #5/INFO]: UUID of player Pinky is fa6a69e8-d115-3124-bd72-5b86eff1d55f
+[01:02:23] [User Authenticator #6/INFO]: UUID of player Clyde is afbfda40-9cec-3636-b8bf-8b10c9fad526
+[01:02:24] [Server thread/INFO]: Inky joined the game
+[01:02:24] [Server thread/INFO]: Inky[/127.0.0.1:61424] logged in with entity id 3 at ([pacman_bot]3.5, -53.0, -6.499628057378378)
+[01:02:24] [Server thread/INFO]: Pacman joined the game
+[01:02:24] [Server thread/INFO]: Pacman[/127.0.0.1:61418] logged in with entity id 4 at ([pacman_bot]0.4997471619552333, -53.0, 11.304074807855395)
+[01:02:24] [Server thread/INFO]: Blinky joined the game
+[01:02:24] [Server thread/INFO]: Blinky[/127.0.0.1:61420] logged in with entity id 5 at ([pacman_bot]3.606815565187233, -53.0, -7.569727430855874)
+[01:02:24] [Server thread/INFO]: Pinky joined the game
+[01:02:24] [Server thread/INFO]: Pinky[/127.0.0.1:61422] logged in with entity id 6 at ([pacman_bot]-1.5, -53.0, -7.5)
+[01:02:24] [Server thread/INFO]: Clyde joined the game
+[01:02:24] [Server thread/INFO]: Clyde[/127.0.0.1:61426] logged in with entity id 7 at ([pacman_bot]1.672513138002051, -53.0, -7.500035553161056)
+[01:02:25] [Server thread/INFO]: Pacman issued server command: /scoreboard objectives setdisplay sidebar
+[01:02:25] [Async Chat Thread - #1/INFO]: [Not Secure] <Pacman> Hello, World!
+[01:02:25] [Async Chat Thread - #0/INFO]: [Not Secure] <Inky> Hello, World!
+[01:02:25] [Async Chat Thread - #4/INFO]: [Not Secure] <Inky> Returning to spawn.
+[01:02:25] [Async Chat Thread - #0/INFO]: [Not Secure] <Pacman> Returning to spawn.
+[01:02:25] [Async Chat Thread - #1/INFO]: [Not Secure] <Inky> Going to (0.0, -60.0, 0.0)
+[01:02:25] [Async Chat Thread - #1/INFO]: [Not Secure] <Pacman> Going to (0.0, -60.0, 0.0)
+[01:02:25] [Server thread/INFO]: [Pacman: Cleared any objectives in display slot sidebar]
+[01:02:25] [Server thread/INFO]: Pacman issued server command: /scoreboard objectives remove pellets
+[01:02:25] [Server thread/INFO]: [Pacman: Removed objective [pellets]]
+[01:02:25] [Async Chat Thread - #0/INFO]: [Not Secure] <Blinky> Hello, World!
+[01:02:25] [Async Chat Thread - #1/INFO]: [Not Secure] <Blinky> Returning to spawn.
+[01:02:25] [Async Chat Thread - #0/INFO]: [Not Secure] <Blinky> Going to (0.0, -60.0, 0.0)
+[01:02:25] [Async Chat Thread - #1/INFO]: [Not Secure] <Pinky> Hello, World!
+[01:02:25] [Async Chat Thread - #0/INFO]: [Not Secure] <Pinky> Returning to spawn.
+[01:02:25] [Async Chat Thread - #1/INFO]: [Not Secure] <Pinky> Going to (0.0, -60.0, 0.0)
+[01:02:25] [Async Chat Thread - #0/INFO]: [Not Secure] <Clyde> Hello, World!
+[01:02:25] [Async Chat Thread - #1/INFO]: [Not Secure] <Clyde> Returning to spawn.
+[01:02:25] [Async Chat Thread - #0/INFO]: [Not Secure] <Clyde> Going to (0.0, -60.0, 0.0)
+[01:02:26] [Async Chat Thread - #1/INFO]: [Not Secure] <Pinky> Can't get path to (0.0, -60.0, 0.0)
+[01:02:26] [Async Chat Thread - #0/INFO]: [Not Secure] <Pinky> Somehow I am not at Spawn.
+[01:02:28] [Async Chat Thread - #1/INFO]: [Not Secure] <Pacman> I've arrived. I'm at (-0.5, -60.0, 1.5).
+[01:02:28] [Async Chat Thread - #0/INFO]: [Not Secure] <Pacman> Going to (0.0, -53.0, 12.0)
+[01:02:29] [Async Chat Thread - #1/INFO]: [Not Secure] <Inky> I've arrived. I'm at (-0.5, -60.0, -0.6).
+[01:02:29] [Async Chat Thread - #0/INFO]: [Not Secure] <Inky> Clearing equipment.
+[01:02:29] [Server thread/INFO]: Inky issued server command: /give @s minecraft:leather_helmet{display:{color:65535}}
+[01:02:29] [Server thread/INFO]: [Inky: Gave 1 [Leather Cap] to Inky]
+[01:02:29] [Async Chat Thread - #1/INFO]: [Not Secure] <Inky> Equipped leather_helmet
+[01:02:29] [Server thread/INFO]: Inky issued server command: /give @s minecraft:leather_chestplate{display:{color:65535}}
+[01:02:29] [Server thread/INFO]: [Inky: Gave 1 [Leather Tunic] to Inky]
+[01:02:29] [Async Chat Thread - #0/INFO]: [Not Secure] <Blinky> I've arrived. I'm at (-0.5, -60.0, -0.5).
+[01:02:29] [Async Chat Thread - #1/INFO]: [Not Secure] <Blinky> Clearing equipment.
+[01:02:29] [Server thread/INFO]: Blinky issued server command: /give @s minecraft:leather_helmet{display:{color:16711680}}
+[01:02:29] [Server thread/INFO]: [Blinky: Gave 1 [Leather Cap] to Blinky]
+[01:02:29] [Async Chat Thread - #0/INFO]: [Not Secure] <Inky> Equipped leather_chestplate
+[01:02:29] [Server thread/INFO]: Inky issued server command: /give @s minecraft:leather_leggings{display:{color:65535}}
+[01:02:29] [Server thread/INFO]: [Inky: Gave 1 [Leather Pants] to Inky]
+[01:02:29] [Async Chat Thread - #1/INFO]: [Not Secure] <Blinky> Equipped leather_helmet
+[01:02:29] [Server thread/INFO]: Blinky issued server command: /give @s minecraft:leather_chestplate{display:{color:16711680}}
+[01:02:29] [Server thread/INFO]: [Blinky: Gave 1 [Leather Tunic] to Blinky]
+[01:02:29] [Async Chat Thread - #0/INFO]: [Not Secure] <Inky> Equipped leather_leggings
+[01:02:29] [Server thread/INFO]: Inky issued server command: /give @s minecraft:leather_boots{display:{color:65535}}
+[01:02:29] [Server thread/INFO]: [Inky: Gave 1 [Leather Boots] to Inky]
+[01:02:29] [Async Chat Thread - #1/INFO]: [Not Secure] <Blinky> Equipped leather_chestplate
+[01:02:29] [Server thread/INFO]: Blinky issued server command: /give @s minecraft:leather_leggings{display:{color:16711680}}
+[01:02:29] [Server thread/INFO]: [Blinky: Gave 1 [Leather Pants] to Blinky]
+[01:02:29] [Async Chat Thread - #0/INFO]: [Not Secure] <Pacman> I've arrived. I'm at (0.5, -53.0, 11.5).
+[01:02:29] [Server thread/INFO]: Pacman issued server command: /scoreboard objectives add pellets dummy
+[01:02:29] [Server thread/INFO]: [Pacman: Created new objective [pellets]]
+[01:02:29] [Server thread/INFO]: Pacman issued server command: /scoreboard objectives setdisplay sidebar pellets
+[01:02:29] [Server thread/INFO]: [Pacman: Set display slot sidebar to show objective pellets]
+[01:02:29] [Server thread/INFO]: Pacman issued server command: /scoreboard players set Pacman pellets 244
+[01:02:29] [Async Chat Thread - #1/INFO]: [Not Secure] <Pacman> Objectives set.
+[01:02:29] [Async Chat Thread - #0/INFO]: [Not Secure] <Pacman> I'm ready.
+[01:02:29] [Server thread/INFO]: [Pacman: Set [pellets] for Pacman to 244]
+[01:02:29] [Async Chat Thread - #1/INFO]: [Not Secure] <Inky> Equipped leather_boots
+[01:02:30] [Async Chat Thread - #0/INFO]: [Not Secure] <Inky> Now fully equipped.
+[01:02:30] [Async Chat Thread - #1/INFO]: [Not Secure] <Inky> Going to (0.1, -53.0, -8.1)
+[01:02:30] [Async Chat Thread - #0/INFO]: [Not Secure] <Clyde> I've arrived. I'm at (-0.5, -60.0, -0.5).
+[01:02:30] [Async Chat Thread - #0/INFO]: [Not Secure] <Clyde> Clearing equipment.
+[01:02:30] [Async Chat Thread - #1/INFO]: [Not Secure] <Blinky> Equipped leather_leggings
+[01:02:30] [Server thread/INFO]: Blinky issued server command: /give @s minecraft:leather_boots{display:{color:16711680}}
+[01:02:30] [Server thread/INFO]: [Blinky: Gave 1 [Leather Boots] to Blinky]
+[01:02:30] [Server thread/INFO]: Clyde issued server command: /give @s minecraft:leather_helmet{display:{color:16760576}}
+[01:02:30] [Server thread/INFO]: [Clyde: Gave 1 [Leather Cap] to Clyde]
+[01:02:30] [Async Chat Thread - #1/INFO]: [Not Secure] <Blinky> Equipped leather_boots
+[01:02:30] [Async Chat Thread - #0/INFO]: [Not Secure] <Blinky> Now fully equipped.
+[01:02:30] [Async Chat Thread - #1/INFO]: [Not Secure] <Blinky> Going to (0.4, -53.0, -6.5)
+[01:02:30] [Async Chat Thread - #0/INFO]: [Not Secure] <Clyde> Equipped leather_helmet
+[01:02:30] [Server thread/INFO]: Clyde issued server command: /give @s minecraft:leather_chestplate{display:{color:16760576}}
+[01:02:30] [Server thread/INFO]: [Clyde: Gave 1 [Leather Tunic] to Clyde]
+[01:02:30] [Async Chat Thread - #1/INFO]: [Not Secure] <Clyde> Equipped leather_chestplate
+[01:02:30] [Server thread/INFO]: Clyde issued server command: /give @s minecraft:leather_leggings{display:{color:16760576}}
+[01:02:30] [Server thread/INFO]: [Clyde: Gave 1 [Leather Pants] to Clyde]
+[01:02:31] [Async Chat Thread - #0/INFO]: [Not Secure] <Clyde> Equipped leather_leggings
+[01:02:31] [Server thread/INFO]: Clyde issued server command: /give @s minecraft:leather_boots{display:{color:16760576}}
+[01:02:31] [Server thread/INFO]: [Clyde: Gave 1 [Leather Boots] to Clyde]
+[01:02:31] [Async Chat Thread - #1/INFO]: [Not Secure] <Clyde> Equipped leather_boots
+[01:02:31] [Async Chat Thread - #0/INFO]: [Not Secure] <Clyde> Now fully equipped.
+[01:02:31] [Async Chat Thread - #1/INFO]: [Not Secure] <Clyde> Going to (1.1, -53.0, -7.7)
+[01:02:34] [Async Chat Thread - #0/INFO]: [Not Secure] <Inky> I've arrived. I'm at (-0.5, -53.0, -7.5).
+[01:02:34] [Async Chat Thread - #1/INFO]: [Not Secure] <Inky> I'm ready.
+[01:02:34] [Async Chat Thread - #0/INFO]: [Not Secure] <Blinky> I've arrived. I'm at (-1.5, -53.0, -6.5).
+[01:02:34] [Async Chat Thread - #1/INFO]: [Not Secure] <Blinky> I'm ready.
+[01:02:35] [Async Chat Thread - #0/INFO]: [Not Secure] <Clyde> I've arrived. I'm at (3.6, -53.0, -7.6).
+[01:02:35] [Async Chat Thread - #1/INFO]: [Not Secure] <Clyde> I'm ready.
+[01:03:03] [Server thread/INFO]: Am0nimus issued server command: /kill Pinky
+[01:03:03] [Server thread/INFO]: Pinky was killed
+[01:03:03] [Server thread/INFO]: [Am0nimus: Killed Pinky]
+[01:03:03] [Async Chat Thread - #0/INFO]: [Not Secure] <Pinky> Returning to spawn.
+[01:03:03] [Async Chat Thread - #1/INFO]: [Not Secure] <Pinky> Going to (0.0, -60.0, 0.0)
+[01:03:03] [Async Chat Thread - #0/INFO]: [Not Secure] <Pinky> I've arrived. I'm at (-0.5, -59.9, 0.5).
+[01:03:03] [Async Chat Thread - #1/INFO]: [Not Secure] <Pinky> Clearing equipment.
+[01:03:03] [Server thread/INFO]: Pinky issued server command: /give @s minecraft:leather_helmet{display:{color:16761035}}
+[01:03:03] [Server thread/INFO]: [Pinky: Gave 1 [Leather Cap] to Pinky]
+[01:03:04] [Async Chat Thread - #0/INFO]: [Not Secure] <Pinky> Equipped leather_helmet
+[01:03:04] [Server thread/INFO]: Pinky issued server command: /give @s minecraft:leather_chestplate{display:{color:16761035}}
+[01:03:04] [Server thread/INFO]: [Pinky: Gave 1 [Leather Tunic] to Pinky]
+[01:03:04] [Async Chat Thread - #1/INFO]: [Not Secure] <Pinky> Equipped leather_chestplate
+[01:03:04] [Server thread/INFO]: Pinky issued server command: /give @s minecraft:leather_leggings{display:{color:16761035}}
+[01:03:04] [Server thread/INFO]: [Pinky: Gave 1 [Leather Pants] to Pinky]
+[01:03:04] [Async Chat Thread - #0/INFO]: [Not Secure] <Pinky> Equipped leather_leggings
+[01:03:04] [Server thread/INFO]: Pinky issued server command: /give @s minecraft:leather_boots{display:{color:16761035}}
+[01:03:04] [Server thread/INFO]: [Pinky: Gave 1 [Leather Boots] to Pinky]
+[01:03:04] [Async Chat Thread - #1/INFO]: [Not Secure] <Pinky> Equipped leather_boots
+[01:03:04] [Async Chat Thread - #0/INFO]: [Not Secure] <Pinky> Now fully equipped.
+[01:03:04] [Async Chat Thread - #1/INFO]: [Not Secure] <Pinky> Going to (0.3, -53.0, -7.3)
+[01:03:09] [Async Chat Thread - #0/INFO]: [Not Secure] <Pinky> I've arrived. I'm at (-1.5, -53.0, -7.5).
+[01:03:09] [Async Chat Thread - #1/INFO]: [Not Secure] <Pinky> I'm ready.
+[01:03:33] [Server thread/INFO]: [@: Teleported Am0nimus to -23.500000, -52.500000, -6.500000]
+[01:03:47] [Server thread/INFO]: [@: Teleported Am0nimus to 24.500000, -52.500000, -7.500000]
+[01:03:47] [Server thread/INFO]: [@: Teleported Blinky to 24.500000, -52.500000, -6.500000]
+[01:05:51] [Server thread/INFO]: Am0nimus issued server command: /tell Blinky here
+[01:05:51] [Async Chat Thread - #6/INFO]: [Not Secure] <Blinky> Going to (1.3, -53.0, -6.0)
+[01:05:57] [Async Chat Thread - #5/INFO]: [Not Secure] <Blinky> I've arrived. I'm at (1.5, -53.0, -7.5).
+[01:10:39] [Server thread/INFO]: [@: Teleported Am0nimus to -23.500000, -52.500000, -6.500000]
+[01:11:07] [Server thread/INFO]: [@: Teleported Am0nimus to -23.500000, -52.500000, -5.500000]
+[01:11:26] [Server thread/INFO]: [@: Teleported Am0nimus to 24.500000, -52.500000, -7.500000]
+[01:11:30] [Server thread/INFO]: [@: Teleported Am0nimus to -23.500000, -52.500000, -6.500000]
+[01:13:04] [Server thread/INFO]: Am0nimus issued server command: /tell Pacman snap
+[01:13:04] [Async Chat Thread - #8/INFO]: [Not Secure] <Pacman> Distance: 1.051693930374574
+[01:13:04] [Async Chat Thread - #7/INFO]: [Not Secure] <Pacman> Distance: 0.9290410945035967
+[01:13:04] [Async Chat Thread - #8/INFO]: [Not Secure] <Pacman> Distance: 0.576030423107482
+[01:13:04] [Async Chat Thread - #7/INFO]: [Not Secure] <Pacman> Distance: 0.576030423107482
+[01:13:04] [Async Chat Thread - #8/INFO]: [Not Secure] <Pacman> Distance: 0.3754660389198214
+[01:13:04] [Async Chat Thread - #7/INFO]: [Not Secure] <Pacman> Distance: 0.16815597534430785
+[01:16:21] [Server thread/INFO]: Pacman lost connection: Disconnected
+[01:16:21] [Server thread/INFO]: Pacman left the game
+[01:16:21] [Server thread/INFO]: Blinky lost connection: Disconnected
+[01:16:21] [Server thread/INFO]: Blinky left the game
+[01:16:21] [Server thread/INFO]: Pinky lost connection: Disconnected
+[01:16:21] [Server thread/INFO]: Pinky left the game
+[01:16:21] [Server thread/INFO]: Inky lost connection: Disconnected
+[01:16:21] [Server thread/INFO]: Inky left the game
+[01:16:21] [Server thread/INFO]: Clyde lost connection: Disconnected
+[01:16:21] [Server thread/INFO]: Clyde left the game
+[01:16:27] [User Authenticator #7/INFO]: UUID of player Pacman is a577b3fa-03e9-367c-866d-a7c7ecb866d7
+[01:16:27] [User Authenticator #8/INFO]: UUID of player Blinky is dfa9c900-e7ef-3128-9f72-410669215aa6
+[01:16:27] [User Authenticator #9/INFO]: UUID of player Pinky is fa6a69e8-d115-3124-bd72-5b86eff1d55f
+[01:16:27] [User Authenticator #10/INFO]: UUID of player Inky is a0e0d8a8-af27-3226-864b-2f45f8841cbe
+[01:16:27] [User Authenticator #11/INFO]: UUID of player Clyde is afbfda40-9cec-3636-b8bf-8b10c9fad526
+[01:16:27] [Server thread/INFO]: Pacman joined the game
+[01:16:27] [Server thread/INFO]: Pacman[/127.0.0.1:61608] logged in with entity id 28 at ([pacman_bot]1.5781894598548456, -53.0, 11.48667892137792)
+[01:16:28] [Server thread/INFO]: Blinky joined the game
+[01:16:28] [Server thread/INFO]: Blinky[/127.0.0.1:61610] logged in with entity id 29 at ([pacman_bot]1.5018466824365186, -53.0, -7.5)
+[01:16:28] [Server thread/INFO]: Pinky joined the game
+[01:16:28] [Server thread/INFO]: Pinky[/127.0.0.1:61612] logged in with entity id 30 at ([pacman_bot]-1.5, -53.0, -7.538054871335676)
+[01:16:28] [Server thread/INFO]: Inky joined the game
+[01:16:28] [Server thread/INFO]: Inky[/127.0.0.1:61614] logged in with entity id 31 at ([pacman_bot]-0.5, -53.0, -7.533129162435644)
+[01:16:28] [Server thread/INFO]: Clyde joined the game
+[01:16:28] [Server thread/INFO]: Clyde[/127.0.0.1:61616] logged in with entity id 32 at ([pacman_bot]3.60673165968352, -53.0, -7.5697272310487955)
+[01:16:28] [Async Chat Thread - #10/INFO]: [Not Secure] <Pacman> Hello, World!
+[01:16:28] [Server thread/INFO]: Pacman issued server command: /scoreboard objectives setdisplay sidebar
+[01:16:28] [Server thread/INFO]: [Pacman: Cleared any objectives in display slot sidebar]
+[01:16:28] [Server thread/INFO]: Pacman issued server command: /scoreboard objectives remove pellets
+[01:16:28] [Server thread/INFO]: [Pacman: Removed objective [pellets]]
+[01:16:28] [Async Chat Thread - #9/INFO]: [Not Secure] <Pacman> Returning to spawn.
+[01:16:28] [Async Chat Thread - #10/INFO]: [Not Secure] <Pacman> Going to (0.0, -60.0, 0.0)
+[01:16:28] [Async Chat Thread - #9/INFO]: [Not Secure] <Blinky> Hello, World!
+[01:16:28] [Async Chat Thread - #10/INFO]: [Not Secure] <Blinky> Returning to spawn.
+[01:16:28] [Async Chat Thread - #9/INFO]: [Not Secure] <Blinky> Going to (0.0, -60.0, 0.0)
+[01:16:28] [Async Chat Thread - #10/INFO]: [Not Secure] <Pinky> Hello, World!
+[01:16:28] [Async Chat Thread - #9/INFO]: [Not Secure] <Pinky> Returning to spawn.
+[01:16:28] [Async Chat Thread - #10/INFO]: [Not Secure] <Pinky> Going to (0.0, -60.0, 0.0)
+[01:16:28] [Async Chat Thread - #9/INFO]: [Not Secure] <Inky> Hello, World!
+[01:16:28] [Async Chat Thread - #10/INFO]: [Not Secure] <Inky> Returning to spawn.
+[01:16:28] [Async Chat Thread - #9/INFO]: [Not Secure] <Inky> Going to (0.0, -60.0, 0.0)
+[01:16:29] [Async Chat Thread - #10/INFO]: [Not Secure] <Clyde> Hello, World!
+[01:16:29] [Async Chat Thread - #9/INFO]: [Not Secure] <Clyde> Returning to spawn.
+[01:16:29] [Async Chat Thread - #10/INFO]: [Not Secure] <Clyde> Going to (0.0, -60.0, 0.0)
+[01:16:29] [Async Chat Thread - #9/INFO]: [Not Secure] <Pinky> Can't get path to (0.0, -60.0, 0.0)
+[01:16:29] [Async Chat Thread - #10/INFO]: [Not Secure] <Pinky> Somehow I am not at Spawn.
+[01:16:29] [Async Chat Thread - #9/INFO]: [Not Secure] <Inky> Can't get path to (0.0, -60.0, 0.0)
+[01:16:29] [Async Chat Thread - #10/INFO]: [Not Secure] <Inky> Somehow I am not at Spawn.
+[01:16:31] [Async Chat Thread - #9/INFO]: [Not Secure] <Pacman> I've arrived. I'm at (-0.5, -60.0, 1.5).
+[01:16:31] [Async Chat Thread - #10/INFO]: [Not Secure] <Pacman> Going to (0.0, -53.0, 12.0)
+[01:16:32] [Async Chat Thread - #9/INFO]: [Not Secure] <Blinky> I've arrived. I'm at (-0.5, -60.0, -0.5).
+[01:16:32] [Async Chat Thread - #10/INFO]: [Not Secure] <Blinky> Clearing equipment.
+[01:16:32] [Server thread/INFO]: Blinky issued server command: /give @s minecraft:leather_helmet{display:{color:16711680}}
+[01:16:32] [Server thread/INFO]: [Blinky: Gave 1 [Leather Cap] to Blinky]
+[01:16:32] [Async Chat Thread - #9/INFO]: [Not Secure] <Pacman> I've arrived. I'm at (0.5, -53.0, 11.5).
+[01:16:32] [Server thread/INFO]: Pacman issued server command: /scoreboard objectives add pellets dummy
+[01:16:32] [Server thread/INFO]: [Pacman: Created new objective [pellets]]
+[01:16:32] [Server thread/INFO]: Pacman issued server command: /scoreboard objectives setdisplay sidebar pellets
+[01:16:32] [Server thread/INFO]: [Pacman: Set display slot sidebar to show objective pellets]
+[01:16:32] [Server thread/INFO]: Pacman issued server command: /scoreboard players set Pacman pellets 244
+[01:16:32] [Server thread/INFO]: [Pacman: Set [pellets] for Pacman to 244]
+[01:16:32] [Async Chat Thread - #10/INFO]: [Not Secure] <Pacman> Objectives set.
+[01:16:32] [Async Chat Thread - #10/INFO]: [Not Secure] <Pacman> I'm ready.
+[01:16:33] [Async Chat Thread - #9/INFO]: [Not Secure] <Blinky> Equipped leather_helmet
+[01:16:33] [Server thread/INFO]: Blinky issued server command: /give @s minecraft:leather_chestplate{display:{color:16711680}}
+[01:16:33] [Server thread/INFO]: [Blinky: Gave 1 [Leather Tunic] to Blinky]
+[01:16:33] [Async Chat Thread - #10/INFO]: [Not Secure] <Blinky> Equipped leather_chestplate
+[01:16:33] [Server thread/INFO]: Blinky issued server command: /give @s minecraft:leather_leggings{display:{color:16711680}}
+[01:16:33] [Server thread/INFO]: [Blinky: Gave 1 [Leather Pants] to Blinky]
+[01:16:33] [Async Chat Thread - #9/INFO]: [Not Secure] <Clyde> I've arrived. I'm at (-0.5, -60.0, -0.5).
+[01:16:33] [Async Chat Thread - #10/INFO]: [Not Secure] <Clyde> Clearing equipment.
+[01:16:33] [Server thread/INFO]: Clyde issued server command: /give @s minecraft:leather_helmet{display:{color:16760576}}
+[01:16:33] [Server thread/INFO]: [Clyde: Gave 1 [Leather Cap] to Clyde]
+[01:16:33] [Async Chat Thread - #9/INFO]: [Not Secure] <Blinky> Equipped leather_leggings
+[01:16:33] [Server thread/INFO]: Blinky issued server command: /give @s minecraft:leather_boots{display:{color:16711680}}
+[01:16:33] [Server thread/INFO]: [Blinky: Gave 1 [Leather Boots] to Blinky]
+[01:16:33] [Async Chat Thread - #10/INFO]: [Not Secure] <Clyde> Equipped leather_helmet
+[01:16:33] [Server thread/INFO]: Clyde issued server command: /give @s minecraft:leather_chestplate{display:{color:16760576}}
+[01:16:33] [Server thread/INFO]: [Clyde: Gave 1 [Leather Tunic] to Clyde]
+[01:16:33] [Async Chat Thread - #9/INFO]: [Not Secure] <Clyde> Equipped leather_chestplate
+[01:16:33] [Server thread/INFO]: Clyde issued server command: /give @s minecraft:leather_leggings{display:{color:16760576}}
+[01:16:33] [Server thread/INFO]: [Clyde: Gave 1 [Leather Pants] to Clyde]
+[01:16:33] [Async Chat Thread - #10/INFO]: [Not Secure] <Blinky> Equipped leather_boots
+[01:16:33] [Async Chat Thread - #10/INFO]: [Not Secure] <Blinky> Now fully equipped.
+[01:16:33] [Async Chat Thread - #9/INFO]: [Not Secure] <Blinky> Going to (0.4, -53.0, -6.7)
+[01:16:34] [Async Chat Thread - #10/INFO]: [Not Secure] <Clyde> Equipped leather_leggings
+[01:16:34] [Server thread/INFO]: Clyde issued server command: /give @s minecraft:leather_boots{display:{color:16760576}}
+[01:16:34] [Server thread/INFO]: [Clyde: Gave 1 [Leather Boots] to Clyde]
+[01:16:34] [Async Chat Thread - #9/INFO]: [Not Secure] <Clyde> Equipped leather_boots
+[01:16:34] [Async Chat Thread - #10/INFO]: [Not Secure] <Clyde> Now fully equipped.
+[01:16:34] [Async Chat Thread - #9/INFO]: [Not Secure] <Clyde> Going to (-0.2, -53.0, -6.7)
+[01:16:38] [Async Chat Thread - #10/INFO]: [Not Secure] <Blinky> I've arrived. I'm at (-1.5, -53.0, -6.5).
+[01:16:38] [Async Chat Thread - #9/INFO]: [Not Secure] <Blinky> I'm ready.
+[01:16:38] [Async Chat Thread - #10/INFO]: [Not Secure] <Clyde> I've arrived. I'm at (-2.5, -53.0, -6.5).
+[01:16:38] [Async Chat Thread - #9/INFO]: [Not Secure] <Clyde> I'm ready.
+[01:17:27] [Server thread/INFO]: Am0nimus issued server command: /kill Pinky
+[01:17:27] [Server thread/INFO]: Pinky was killed
+[01:17:27] [Server thread/INFO]: [Am0nimus: Killed Pinky]
+[01:17:27] [Async Chat Thread - #10/INFO]: [Not Secure] <Pinky> Returning to spawn.
+[01:17:27] [Async Chat Thread - #10/INFO]: [Not Secure] <Pinky> Going to (0.0, -60.0, 0.0)
+[01:17:27] [Async Chat Thread - #9/INFO]: [Not Secure] <Pinky> I've arrived. I'm at (-0.5, -59.9, 0.5).
+[01:17:27] [Async Chat Thread - #10/INFO]: [Not Secure] <Pinky> Clearing equipment.
+[01:17:27] [Server thread/INFO]: Pinky issued server command: /give @s minecraft:leather_helmet{display:{color:16761035}}
+[01:17:27] [Server thread/INFO]: [Pinky: Gave 1 [Leather Cap] to Pinky]
+[01:17:28] [Async Chat Thread - #9/INFO]: [Not Secure] <Pinky> Equipped leather_helmet
+[01:17:28] [Server thread/INFO]: Pinky issued server command: /give @s minecraft:leather_chestplate{display:{color:16761035}}
+[01:17:28] [Server thread/INFO]: [Pinky: Gave 1 [Leather Tunic] to Pinky]
+[01:17:28] [Async Chat Thread - #10/INFO]: [Not Secure] <Pinky> Equipped leather_chestplate
+[01:17:28] [Server thread/INFO]: Pinky issued server command: /give @s minecraft:leather_leggings{display:{color:16761035}}
+[01:17:28] [Server thread/INFO]: [Pinky: Gave 1 [Leather Pants] to Pinky]
+[01:17:28] [Async Chat Thread - #9/INFO]: [Not Secure] <Pinky> Equipped leather_leggings
+[01:17:28] [Server thread/INFO]: Pinky issued server command: /give @s minecraft:leather_boots{display:{color:16761035}}
+[01:17:28] [Server thread/INFO]: [Pinky: Gave 1 [Leather Boots] to Pinky]
+[01:17:28] [Async Chat Thread - #10/INFO]: [Not Secure] <Pinky> Equipped leather_boots
+[01:17:28] [Async Chat Thread - #9/INFO]: [Not Secure] <Pinky> Now fully equipped.
+[01:17:28] [Async Chat Thread - #10/INFO]: [Not Secure] <Pinky> Going to (0.0, -53.0, -8.2)
+[01:17:32] [Server thread/INFO]: Am0nimus issued server command: /kill Inky
+[01:17:32] [Server thread/INFO]: Inky was killed
+[01:17:32] [Server thread/INFO]: [Am0nimus: Killed Inky]
+[01:17:32] [Async Chat Thread - #9/INFO]: [Not Secure] <Inky> Returning to spawn.
+[01:17:32] [Async Chat Thread - #10/INFO]: [Not Secure] <Inky> Going to (0.0, -60.0, 0.0)
+[01:17:32] [Async Chat Thread - #9/INFO]: [Not Secure] <Inky> I've arrived. I'm at (-0.5, -59.9, 0.5).
+[01:17:32] [Async Chat Thread - #10/INFO]: [Not Secure] <Inky> Clearing equipment.
+[01:17:32] [Server thread/INFO]: Inky issued server command: /give @s minecraft:leather_helmet{display:{color:65535}}
+[01:17:32] [Server thread/INFO]: [Inky: Gave 1 [Leather Cap] to Inky]
+[01:17:32] [Async Chat Thread - #9/INFO]: [Not Secure] <Inky> Equipped leather_helmet
+[01:17:32] [Server thread/INFO]: Inky issued server command: /give @s minecraft:leather_chestplate{display:{color:65535}}
+[01:17:32] [Server thread/INFO]: [Inky: Gave 1 [Leather Tunic] to Inky]
+[01:17:32] [Async Chat Thread - #10/INFO]: [Not Secure] <Inky> Equipped leather_chestplate
+[01:17:32] [Server thread/INFO]: Inky issued server command: /give @s minecraft:leather_leggings{display:{color:65535}}
+[01:17:32] [Server thread/INFO]: [Inky: Gave 1 [Leather Pants] to Inky]
+[01:17:32] [Async Chat Thread - #9/INFO]: [Not Secure] <Inky> Equipped leather_leggings
+[01:17:32] [Server thread/INFO]: Inky issued server command: /give @s minecraft:leather_boots{display:{color:65535}}
+[01:17:32] [Server thread/INFO]: [Inky: Gave 1 [Leather Boots] to Inky]
+[01:17:33] [Async Chat Thread - #10/INFO]: [Not Secure] <Inky> Equipped leather_boots
+[01:17:33] [Async Chat Thread - #9/INFO]: [Not Secure] <Inky> Now fully equipped.
+[01:17:33] [Async Chat Thread - #10/INFO]: [Not Secure] <Inky> Going to (0.0, -53.0, -8.3)
+[01:17:33] [Async Chat Thread - #9/INFO]: [Not Secure] <Pinky> I've arrived. I'm at (-0.7, -53.0, -7.5).
+[01:17:33] [Async Chat Thread - #10/INFO]: [Not Secure] <Pinky> I'm ready.
+[01:17:38] [Async Chat Thread - #9/INFO]: [Not Secure] <Inky> I've arrived. I'm at (-0.4, -53.0, -7.5).
+[01:17:38] [Async Chat Thread - #10/INFO]: [Not Secure] <Inky> I'm ready.
+[01:17:43] [Server thread/INFO]: [@: Teleported Am0nimus to 0.500000, 0.000000, 0.500000]
+[01:17:52] [Server thread/INFO]: Am0nimus issued server command: /tell Pacman start
+[01:17:52] [Async Chat Thread - #9/INFO]: [Not Secure] <Pacman> Game Start!
+[01:18:29] [Server thread/INFO]: Am0nimus issued server command: /tell Pacman start
+[01:18:29] [Async Chat Thread - #10/INFO]: [Not Secure] <Pacman> Game Start!
+[01:19:02] [Server thread/INFO]: Pacman lost connection: Disconnected
+[01:19:02] [Server thread/INFO]: Pacman left the game
+[01:19:02] [Server thread/INFO]: Blinky lost connection: Disconnected
+[01:19:02] [Server thread/INFO]: Blinky left the game
+[01:19:02] [Server thread/INFO]: Pinky lost connection: Disconnected
+[01:19:02] [Server thread/INFO]: Pinky left the game
+[01:19:02] [Server thread/INFO]: Inky lost connection: Disconnected
+[01:19:02] [Server thread/INFO]: Inky left the game
+[01:19:02] [Server thread/INFO]: Clyde lost connection: Disconnected
+[01:19:02] [Server thread/INFO]: Clyde left the game
+[01:19:07] [User Authenticator #12/INFO]: UUID of player Clyde is afbfda40-9cec-3636-b8bf-8b10c9fad526
+[01:19:07] [User Authenticator #13/INFO]: UUID of player Pacman is a577b3fa-03e9-367c-866d-a7c7ecb866d7
+[01:19:07] [User Authenticator #14/INFO]: UUID of player Blinky is dfa9c900-e7ef-3128-9f72-410669215aa6
+[01:19:07] [User Authenticator #15/INFO]: UUID of player Pinky is fa6a69e8-d115-3124-bd72-5b86eff1d55f
+[01:19:07] [User Authenticator #16/INFO]: UUID of player Inky is a0e0d8a8-af27-3226-864b-2f45f8841cbe
+[01:19:07] [Server thread/INFO]: Clyde joined the game
+[01:19:07] [Server thread/INFO]: Clyde[/127.0.0.1:61669] logged in with entity id 61 at ([pacman_bot]-2.5, -53.0, -6.499623518546368)
+[01:19:08] [Server thread/INFO]: Pacman joined the game
+[01:19:08] [Server thread/INFO]: Pacman[/127.0.0.1:61661] logged in with entity id 62 at ([pacman_bot]0.5001578962772444, -53.0, 11.5)
+[01:19:08] [Server thread/INFO]: Blinky joined the game
+[01:19:08] [Server thread/INFO]: Blinky[/127.0.0.1:61663] logged in with entity id 63 at ([pacman_bot]-1.5, -53.0, -6.497609396473883)
+[01:19:08] [Server thread/INFO]: Pinky joined the game
+[01:19:08] [Server thread/INFO]: Pinky[/127.0.0.1:61665] logged in with entity id 64 at ([pacman_bot]-0.8051165367043782, -53.0, -7.500035553162054)
+[01:19:08] [Server thread/INFO]: Inky joined the game
+[01:19:08] [Server thread/INFO]: Inky[/127.0.0.1:61667] logged in with entity id 65 at ([pacman_bot]-0.31008585583489134, -53.0, -7.5)
+[01:19:08] [Async Chat Thread - #9/INFO]: [Not Secure] <Pacman> Hello, World!
+[01:19:08] [Server thread/INFO]: Pacman issued server command: /scoreboard objectives setdisplay sidebar
+[01:19:08] [Server thread/INFO]: [Pacman: Cleared any objectives in display slot sidebar]
+[01:19:08] [Server thread/INFO]: Pacman issued server command: /scoreboard objectives remove pellets
+[01:19:08] [Server thread/INFO]: [Pacman: Removed objective [pellets]]
+[01:19:08] [Async Chat Thread - #10/INFO]: [Not Secure] <Pacman> Returning to spawn.
+[01:19:08] [Async Chat Thread - #9/INFO]: [Not Secure] <Pacman> Going to (0.0, -60.0, 0.0)
+[01:19:08] [Async Chat Thread - #10/INFO]: [Not Secure] <Clyde> Hello, World!
+[01:19:08] [Async Chat Thread - #9/INFO]: [Not Secure] <Clyde> Returning to spawn.
+[01:19:08] [Async Chat Thread - #10/INFO]: [Not Secure] <Clyde> Going to (0.0, -60.0, 0.0)
+[01:19:08] [Async Chat Thread - #9/INFO]: [Not Secure] <Blinky> Hello, World!
+[01:19:08] [Async Chat Thread - #10/INFO]: [Not Secure] <Blinky> Returning to spawn.
+[01:19:08] [Async Chat Thread - #9/INFO]: [Not Secure] <Blinky> Going to (0.0, -60.0, 0.0)
+[01:19:08] [Async Chat Thread - #10/INFO]: [Not Secure] <Pinky> Hello, World!
+[01:19:08] [Async Chat Thread - #9/INFO]: [Not Secure] <Pinky> Returning to spawn.
+[01:19:08] [Async Chat Thread - #10/INFO]: [Not Secure] <Pinky> Going to (0.0, -60.0, 0.0)
+[01:19:08] [Async Chat Thread - #9/INFO]: [Not Secure] <Inky> Hello, World!
+[01:19:08] [Async Chat Thread - #9/INFO]: [Not Secure] <Inky> Returning to spawn.
+[01:19:08] [Async Chat Thread - #10/INFO]: [Not Secure] <Inky> Going to (0.0, -60.0, 0.0)
+[01:19:09] [Async Chat Thread - #9/INFO]: [Not Secure] <Blinky> Can't get path to (0.0, -60.0, 0.0)
+[01:19:09] [Async Chat Thread - #10/INFO]: [Not Secure] <Blinky> Somehow I am not at Spawn.
+[01:19:10] [Async Chat Thread - #9/INFO]: [Not Secure] <Inky> Can't get path to (0.0, -60.0, 0.0)
+[01:19:10] [Async Chat Thread - #10/INFO]: [Not Secure] <Inky> Somehow I am not at Spawn.
+[01:19:11] [Async Chat Thread - #9/INFO]: [Not Secure] <Pinky> Can't get path to (0.0, -60.0, 0.0)
+[01:19:11] [Async Chat Thread - #10/INFO]: [Not Secure] <Pinky> Somehow I am not at Spawn.
+[01:19:12] [Async Chat Thread - #9/INFO]: [Not Secure] <Pacman> I've arrived. I'm at (-0.5, -60.0, 1.5).
+[01:19:12] [Async Chat Thread - #10/INFO]: [Not Secure] <Pacman> Going to (0.0, -53.0, 12.0)
+[01:19:12] [Async Chat Thread - #9/INFO]: [Not Secure] <Clyde> I've arrived. I'm at (-0.5, -60.0, -0.7).
+[01:19:12] [Async Chat Thread - #10/INFO]: [Not Secure] <Clyde> Clearing equipment.
+[01:19:13] [Async Chat Thread - #9/INFO]: [Not Secure] <Pacman> I've arrived. I'm at (0.5, -53.0, 11.5).
+[01:19:13] [Server thread/INFO]: Pacman issued server command: /scoreboard objectives add pellets dummy
+[01:19:13] [Server thread/INFO]: [Pacman: Created new objective [pellets]]
+[01:19:13] [Server thread/INFO]: Pacman issued server command: /scoreboard objectives setdisplay sidebar pellets
+[01:19:13] [Server thread/INFO]: [Pacman: Set display slot sidebar to show objective pellets]
+[01:19:13] [Server thread/INFO]: Pacman issued server command: /scoreboard players set Pacman pellets 244
+[01:19:13] [Server thread/INFO]: [Pacman: Set [pellets] for Pacman to 244]
+[01:19:13] [Async Chat Thread - #11/INFO]: [Not Secure] <Pacman> Objectives set.
+[01:19:13] [Async Chat Thread - #10/INFO]: [Not Secure] <Pacman> I'm ready.
+[01:19:13] [Server thread/INFO]: Clyde issued server command: /give @s minecraft:leather_helmet{display:{color:16760576}}
+[01:19:13] [Server thread/INFO]: [Clyde: Gave 1 [Leather Cap] to Clyde]
+[01:19:13] [Async Chat Thread - #11/INFO]: [Not Secure] <Clyde> Equipped leather_helmet
+[01:19:13] [Server thread/INFO]: Clyde issued server command: /give @s minecraft:leather_chestplate{display:{color:16760576}}
+[01:19:13] [Server thread/INFO]: [Clyde: Gave 1 [Leather Tunic] to Clyde]
+[01:19:13] [Async Chat Thread - #10/INFO]: [Not Secure] <Clyde> Equipped leather_chestplate
+[01:19:13] [Server thread/INFO]: Clyde issued server command: /give @s minecraft:leather_leggings{display:{color:16760576}}
+[01:19:13] [Server thread/INFO]: [Clyde: Gave 1 [Leather Pants] to Clyde]
+[01:19:13] [Async Chat Thread - #11/INFO]: [Not Secure] <Clyde> Equipped leather_leggings
+[01:19:13] [Server thread/INFO]: Clyde issued server command: /give @s minecraft:leather_boots{display:{color:16760576}}
+[01:19:13] [Server thread/INFO]: [Clyde: Gave 1 [Leather Boots] to Clyde]
+[01:19:14] [Async Chat Thread - #10/INFO]: [Not Secure] <Clyde> Equipped leather_boots
+[01:19:14] [Async Chat Thread - #11/INFO]: [Not Secure] <Clyde> Now fully equipped.
+[01:19:14] [Async Chat Thread - #10/INFO]: [Not Secure] <Clyde> Going to (0.9, -53.0, -8.5)
+[01:19:18] [Async Chat Thread - #11/INFO]: [Not Secure] <Clyde> I've arrived. I'm at (1.7, -53.0, -7.5).
+[01:19:18] [Async Chat Thread - #10/INFO]: [Not Secure] <Clyde> I'm ready.
+[01:19:36] [Server thread/INFO]: Am0nimus issued server command: /kill Pinky
+[01:19:36] [Server thread/INFO]: Pinky was killed
+[01:19:36] [Server thread/INFO]: [Am0nimus: Killed Pinky]
+[01:19:36] [Async Chat Thread - #11/INFO]: [Not Secure] <Pinky> Returning to spawn.
+[01:19:36] [Async Chat Thread - #10/INFO]: [Not Secure] <Pinky> Going to (0.0, -60.0, 0.0)
+[01:19:36] [Async Chat Thread - #11/INFO]: [Not Secure] <Pinky> I've arrived. I'm at (-0.5, -59.9, 0.5).
+[01:19:36] [Async Chat Thread - #10/INFO]: [Not Secure] <Pinky> Clearing equipment.
+[01:19:36] [Server thread/INFO]: Pinky issued server command: /give @s minecraft:leather_helmet{display:{color:16761035}}
+[01:19:36] [Server thread/INFO]: [Pinky: Gave 1 [Leather Cap] to Pinky]
+[01:19:37] [Async Chat Thread - #11/INFO]: [Not Secure] <Pinky> Equipped leather_helmet
+[01:19:37] [Server thread/INFO]: Pinky issued server command: /give @s minecraft:leather_chestplate{display:{color:16761035}}
+[01:19:37] [Server thread/INFO]: [Pinky: Gave 1 [Leather Tunic] to Pinky]
+[01:19:37] [Async Chat Thread - #10/INFO]: [Not Secure] <Pinky> Equipped leather_chestplate
+[01:19:37] [Server thread/INFO]: Pinky issued server command: /give @s minecraft:leather_leggings{display:{color:16761035}}
+[01:19:37] [Server thread/INFO]: [Pinky: Gave 1 [Leather Pants] to Pinky]
+[01:19:37] [Async Chat Thread - #11/INFO]: [Not Secure] <Pinky> Equipped leather_leggings
+[01:19:37] [Server thread/INFO]: Pinky issued server command: /give @s minecraft:leather_boots{display:{color:16761035}}
+[01:19:37] [Server thread/INFO]: [Pinky: Gave 1 [Leather Boots] to Pinky]
+[01:19:37] [Async Chat Thread - #10/INFO]: [Not Secure] <Pinky> Equipped leather_boots
+[01:19:37] [Async Chat Thread - #11/INFO]: [Not Secure] <Pinky> Now fully equipped.
+[01:19:37] [Async Chat Thread - #10/INFO]: [Not Secure] <Pinky> Going to (-0.1, -53.0, -8.2)
+[01:19:40] [Server thread/INFO]: Am0nimus issued server command: /kill Blinky
+[01:19:40] [Server thread/INFO]: Blinky was killed
+[01:19:40] [Server thread/INFO]: [Am0nimus: Killed Blinky]
+[01:19:40] [Async Chat Thread - #11/INFO]: [Not Secure] <Blinky> Returning to spawn.
+[01:19:40] [Async Chat Thread - #10/INFO]: [Not Secure] <Blinky> Going to (0.0, -60.0, 0.0)
+[01:19:40] [Async Chat Thread - #11/INFO]: [Not Secure] <Blinky> I've arrived. I'm at (-0.5, -59.9, 0.5).
+[01:19:40] [Server thread/INFO]: Blinky issued server command: /give @s minecraft:leather_helmet{display:{color:16711680}}
+[01:19:40] [Async Chat Thread - #10/INFO]: [Not Secure] <Blinky> Clearing equipment.
+[01:19:40] [Server thread/INFO]: [Blinky: Gave 1 [Leather Cap] to Blinky]
+[01:19:40] [Async Chat Thread - #11/INFO]: [Not Secure] <Blinky> Equipped leather_helmet
+[01:19:40] [Server thread/INFO]: Blinky issued server command: /give @s minecraft:leather_chestplate{display:{color:16711680}}
+[01:19:40] [Server thread/INFO]: [Blinky: Gave 1 [Leather Tunic] to Blinky]
+[01:19:40] [Async Chat Thread - #10/INFO]: [Not Secure] <Blinky> Equipped leather_chestplate
+[01:19:40] [Server thread/INFO]: Blinky issued server command: /give @s minecraft:leather_leggings{display:{color:16711680}}
+[01:19:40] [Server thread/INFO]: [Blinky: Gave 1 [Leather Pants] to Blinky]
+[01:19:40] [Async Chat Thread - #11/INFO]: [Not Secure] <Blinky> Equipped leather_leggings
+[01:19:40] [Server thread/INFO]: Blinky issued server command: /give @s minecraft:leather_boots{display:{color:16711680}}
+[01:19:40] [Server thread/INFO]: [Blinky: Gave 1 [Leather Boots] to Blinky]
+[01:19:41] [Async Chat Thread - #10/INFO]: [Not Secure] <Blinky> Equipped leather_boots
+[01:19:41] [Async Chat Thread - #11/INFO]: [Not Secure] <Blinky> Now fully equipped.
+[01:19:41] [Async Chat Thread - #10/INFO]: [Not Secure] <Blinky> Going to (0.5, -53.0, -8.3)
+[01:19:42] [Async Chat Thread - #11/INFO]: [Not Secure] <Pinky> I've arrived. I'm at (-1.5, -53.0, -7.5).
+[01:19:42] [Async Chat Thread - #10/INFO]: [Not Secure] <Pinky> I'm ready.
+[01:19:43] [Server thread/INFO]: Am0nimus issued server command: /kill Inky
+[01:19:43] [Server thread/INFO]: Inky was killed
+[01:19:43] [Server thread/INFO]: [Am0nimus: Killed Inky]
+[01:19:43] [Async Chat Thread - #11/INFO]: [Not Secure] <Inky> Returning to spawn.
+[01:19:43] [Async Chat Thread - #10/INFO]: [Not Secure] <Inky> Going to (0.0, -60.0, 0.0)
+[01:19:43] [Async Chat Thread - #11/INFO]: [Not Secure] <Inky> I've arrived. I'm at (-0.5, -59.9, 0.5).
+[01:19:43] [Async Chat Thread - #11/INFO]: [Not Secure] <Inky> Clearing equipment.
+[01:19:43] [Server thread/INFO]: Inky issued server command: /give @s minecraft:leather_helmet{display:{color:65535}}
+[01:19:43] [Server thread/INFO]: [Inky: Gave 1 [Leather Cap] to Inky]
+[01:19:43] [Async Chat Thread - #10/INFO]: [Not Secure] <Inky> Equipped leather_helmet
+[01:19:43] [Server thread/INFO]: Inky issued server command: /give @s minecraft:leather_chestplate{display:{color:65535}}
+[01:19:43] [Server thread/INFO]: [Inky: Gave 1 [Leather Tunic] to Inky]
+[01:19:43] [Async Chat Thread - #11/INFO]: [Not Secure] <Inky> Equipped leather_chestplate
+[01:19:43] [Server thread/INFO]: Inky issued server command: /give @s minecraft:leather_leggings{display:{color:65535}}
+[01:19:43] [Server thread/INFO]: [Inky: Gave 1 [Leather Pants] to Inky]
+[01:19:43] [Async Chat Thread - #10/INFO]: [Not Secure] <Inky> Equipped leather_leggings
+[01:19:43] [Server thread/INFO]: Inky issued server command: /give @s minecraft:leather_boots{display:{color:65535}}
+[01:19:43] [Server thread/INFO]: [Inky: Gave 1 [Leather Boots] to Inky]
+[01:19:44] [Async Chat Thread - #11/INFO]: [Not Secure] <Inky> Equipped leather_boots
+[01:19:44] [Async Chat Thread - #10/INFO]: [Not Secure] <Inky> Now fully equipped.
+[01:19:44] [Async Chat Thread - #11/INFO]: [Not Secure] <Inky> Going to (0.3, -53.0, -6.6)
+[01:19:45] [Async Chat Thread - #10/INFO]: [Not Secure] <Blinky> I've arrived. I'm at (0.6, -53.0, -7.3).
+[01:19:45] [Async Chat Thread - #11/INFO]: [Not Secure] <Blinky> I'm ready.
+[01:19:48] [Async Chat Thread - #10/INFO]: [Not Secure] <Inky> I've arrived. I'm at (-1.5, -53.0, -6.5).
+[01:19:48] [Async Chat Thread - #10/INFO]: [Not Secure] <Inky> I'm ready.
+[01:19:55] [Server thread/INFO]: Am0nimus issued server command: /tell Pacman start
+[01:19:55] [Async Chat Thread - #11/INFO]: [Not Secure] <Pacman> Game Start!
+[01:23:06] [Server thread/INFO]: Pacman lost connection: Disconnected
+[01:23:06] [Server thread/INFO]: Pacman left the game
+[01:23:06] [Server thread/INFO]: Blinky lost connection: Disconnected
+[01:23:06] [Server thread/INFO]: Blinky left the game
+[01:23:06] [Server thread/INFO]: Pinky lost connection: Disconnected
+[01:23:06] [Server thread/INFO]: Pinky left the game
+[01:23:06] [Server thread/INFO]: Inky lost connection: Disconnected
+[01:23:06] [Server thread/INFO]: Inky left the game
+[01:23:06] [Server thread/INFO]: Clyde lost connection: Disconnected
+[01:23:06] [Server thread/INFO]: Clyde left the game
+[01:23:12] [User Authenticator #17/INFO]: UUID of player Pacman is a577b3fa-03e9-367c-866d-a7c7ecb866d7
+[01:23:12] [User Authenticator #18/INFO]: UUID of player Blinky is dfa9c900-e7ef-3128-9f72-410669215aa6
+[01:23:12] [User Authenticator #19/INFO]: UUID of player Pinky is fa6a69e8-d115-3124-bd72-5b86eff1d55f
+[01:23:12] [User Authenticator #20/INFO]: UUID of player Inky is a0e0d8a8-af27-3226-864b-2f45f8841cbe
+[01:23:12] [User Authenticator #21/INFO]: UUID of player Clyde is afbfda40-9cec-3636-b8bf-8b10c9fad526
+[01:23:12] [Server thread/INFO]: Pacman joined the game
+[01:23:12] [Server thread/INFO]: Pacman[/127.0.0.1:61724] logged in with entity id 105 at ([pacman_bot]0.4995237962445154, -53.0, 11.5)
+[01:23:13] [Server thread/INFO]: Pinky joined the game
+[01:23:13] [Server thread/INFO]: Pinky[/127.0.0.1:61728] logged in with entity id 107 at ([pacman_bot]-1.5, -53.0, -7.538054871335676)
+[01:23:13] [Server thread/INFO]: Inky joined the game
+[01:23:13] [Server thread/INFO]: Inky[/127.0.0.1:61730] logged in with entity id 108 at ([pacman_bot]-1.5, -53.0, -6.497614313081898)
+[01:23:13] [Server thread/INFO]: Blinky joined the game
+[01:23:13] [Server thread/INFO]: Blinky[/127.0.0.1:61726] logged in with entity id 106 at ([pacman_bot]0.5766329428468098, -53.0, -7.317569592414378)
+[01:23:13] [Server thread/INFO]: Clyde joined the game
+[01:23:13] [Server thread/INFO]: Clyde[/127.0.0.1:61732] logged in with entity id 109 at ([pacman_bot]1.6725129357750796, -53.0, -7.500035282876645)
+[01:23:13] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Hello, World!
+[01:23:13] [Server thread/INFO]: Pacman issued server command: /scoreboard objectives setdisplay sidebar
+[01:23:13] [Server thread/INFO]: [Pacman: Cleared any objectives in display slot sidebar]
+[01:23:13] [Server thread/INFO]: Pacman issued server command: /scoreboard objectives remove pellets
+[01:23:13] [Server thread/INFO]: [Pacman: Removed objective [pellets]]
+[01:23:13] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Returning to spawn.
+[01:23:13] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Going to (-4.0, -60.0, 0.0)
+[01:23:13] [Async Chat Thread - #12/INFO]: [Not Secure] <Pinky> Hello, World!
+[01:23:13] [Async Chat Thread - #13/INFO]: [Not Secure] <Pinky> Returning to spawn.
+[01:23:13] [Async Chat Thread - #12/INFO]: [Not Secure] <Pinky> Going to (-4.0, -60.0, 0.0)
+[01:23:13] [Async Chat Thread - #13/INFO]: [Not Secure] <Inky> Hello, World!
+[01:23:13] [Async Chat Thread - #12/INFO]: [Not Secure] <Inky> Returning to spawn.
+[01:23:13] [Async Chat Thread - #13/INFO]: [Not Secure] <Inky> Going to (-4.0, -60.0, 0.0)
+[01:23:13] [Async Chat Thread - #12/INFO]: [Not Secure] <Clyde> Hello, World!
+[01:23:13] [Async Chat Thread - #13/INFO]: [Not Secure] <Clyde> Returning to spawn.
+[01:23:13] [Async Chat Thread - #12/INFO]: [Not Secure] <Clyde> Going to (-4.0, -60.0, 0.0)
+[01:23:13] [Async Chat Thread - #13/INFO]: [Not Secure] <Blinky> Hello, World!
+[01:23:13] [Async Chat Thread - #12/INFO]: [Not Secure] <Blinky> Returning to spawn.
+[01:23:14] [Async Chat Thread - #13/INFO]: [Not Secure] <Blinky> Going to (-4.0, -60.0, 0.0)
+[01:23:15] [Async Chat Thread - #12/INFO]: [Not Secure] <Inky> Can't get path to (-4.0, -60.0, 0.0)
+[01:23:15] [Async Chat Thread - #13/INFO]: [Not Secure] <Inky> Clearing equipment.
+[01:23:16] [Async Chat Thread - #12/INFO]: [Not Secure] <Clyde> Can't get path to (-4.0, -60.0, 0.0)
+[01:23:16] [Async Chat Thread - #13/INFO]: [Not Secure] <Clyde> Somehow I am not at Spawn.
+[01:23:16] [Async Chat Thread - #12/INFO]: [Not Secure] <Blinky> Can't get path to (-4.0, -60.0, 0.0)
+[01:23:16] [Async Chat Thread - #13/INFO]: [Not Secure] <Blinky> Somehow I am not at Spawn.
+[01:23:17] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> I've arrived. I'm at (-2.5, -60.0, 1.5).
+[01:23:17] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Going to (0.0, -53.0, 12.0)
+[01:23:17] [Server thread/INFO]: Inky issued server command: /give @s minecraft:leather_helmet{display:{color:65535}}
+[01:23:17] [Server thread/INFO]: [Inky: Gave 1 [Leather Cap] to Inky]
+[01:23:17] [Async Chat Thread - #12/INFO]: [Not Secure] <Inky> Equipped leather_helmet
+[01:23:17] [Server thread/INFO]: Inky issued server command: /give @s minecraft:leather_chestplate{display:{color:65535}}
+[01:23:17] [Server thread/INFO]: [Inky: Gave 1 [Leather Tunic] to Inky]
+[01:23:18] [Async Chat Thread - #13/INFO]: [Not Secure] <Inky> Equipped leather_chestplate
+[01:23:18] [Server thread/INFO]: Inky issued server command: /give @s minecraft:leather_leggings{display:{color:65535}}
+[01:23:18] [Server thread/INFO]: [Inky: Gave 1 [Leather Pants] to Inky]
+[01:23:18] [Async Chat Thread - #12/INFO]: [Not Secure] <Pinky> I've arrived. I'm at (-2.5, -60.0, -0.5).
+[01:23:18] [Async Chat Thread - #13/INFO]: [Not Secure] <Pinky> Clearing equipment.
+[01:23:18] [Server thread/INFO]: Pinky issued server command: /give @s minecraft:leather_helmet{display:{color:16761035}}
+[01:23:18] [Server thread/INFO]: [Pinky: Gave 1 [Leather Cap] to Pinky]
+[01:23:18] [Async Chat Thread - #12/INFO]: [Not Secure] <Inky> Equipped leather_leggings
+[01:23:18] [Server thread/INFO]: Inky issued server command: /give @s minecraft:leather_boots{display:{color:65535}}
+[01:23:18] [Server thread/INFO]: [Inky: Gave 1 [Leather Boots] to Inky]
+[01:23:18] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> I've arrived. I'm at (0.5, -53.0, 11.5).
+[01:23:18] [Server thread/INFO]: Pacman issued server command: /scoreboard objectives add pellets dummy
+[01:23:18] [Server thread/INFO]: [Pacman: Created new objective [pellets]]
+[01:23:18] [Server thread/INFO]: Pacman issued server command: /scoreboard objectives setdisplay sidebar pellets
+[01:23:18] [Server thread/INFO]: [Pacman: Set display slot sidebar to show objective pellets]
+[01:23:18] [Server thread/INFO]: Pacman issued server command: /scoreboard players set Pacman pellets 244
+[01:23:18] [Server thread/INFO]: [Pacman: Set [pellets] for Pacman to 244]
+[01:23:18] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Objectives set.
+[01:23:18] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> I'm ready.
+[01:23:18] [Async Chat Thread - #13/INFO]: [Not Secure] <Pinky> Equipped leather_helmet
+[01:23:18] [Server thread/INFO]: Pinky issued server command: /give @s minecraft:leather_chestplate{display:{color:16761035}}
+[01:23:18] [Server thread/INFO]: [Pinky: Gave 1 [Leather Tunic] to Pinky]
+[01:23:18] [Async Chat Thread - #12/INFO]: [Not Secure] <Inky> Equipped leather_boots
+[01:23:18] [Async Chat Thread - #13/INFO]: [Not Secure] <Inky> Now fully equipped.
+[01:23:18] [Async Chat Thread - #12/INFO]: [Not Secure] <Inky> Going to (-0.2, -53.0, -7.9)
+[01:23:18] [Async Chat Thread - #13/INFO]: [Not Secure] <Pinky> Equipped leather_chestplate
+[01:23:18] [Server thread/INFO]: Pinky issued server command: /give @s minecraft:leather_leggings{display:{color:16761035}}
+[01:23:18] [Server thread/INFO]: [Pinky: Gave 1 [Leather Pants] to Pinky]
+[01:23:18] [Async Chat Thread - #12/INFO]: [Not Secure] <Pinky> Equipped leather_leggings
+[01:23:19] [Server thread/INFO]: Pinky issued server command: /give @s minecraft:leather_boots{display:{color:16761035}}
+[01:23:19] [Server thread/INFO]: [Pinky: Gave 1 [Leather Boots] to Pinky]
+[01:23:19] [Async Chat Thread - #13/INFO]: [Not Secure] <Pinky> Equipped leather_boots
+[01:23:19] [Async Chat Thread - #12/INFO]: [Not Secure] <Pinky> Now fully equipped.
+[01:23:19] [Async Chat Thread - #12/INFO]: [Not Secure] <Pinky> Going to (1.1, -53.0, -8.2)
+[01:23:23] [Async Chat Thread - #13/INFO]: [Not Secure] <Inky> I've arrived. I'm at (-2.6, -53.0, -7.6).
+[01:23:23] [Async Chat Thread - #12/INFO]: [Not Secure] <Inky> I'm ready.
+[01:23:24] [Async Chat Thread - #13/INFO]: [Not Secure] <Pinky> I've arrived. I'm at (2.5, -53.0, -7.5).
+[01:23:24] [Async Chat Thread - #12/INFO]: [Not Secure] <Pinky> I'm ready.
+[01:23:30] [Server thread/INFO]: Am0nimus issued server command: /kill Blinky
+[01:23:30] [Server thread/INFO]: Blinky was killed
+[01:23:30] [Server thread/INFO]: [Am0nimus: Killed Blinky]
+[01:23:30] [Async Chat Thread - #13/INFO]: [Not Secure] <Blinky> Returning to spawn.
+[01:23:30] [Async Chat Thread - #12/INFO]: [Not Secure] <Blinky> Going to (-4.0, -60.0, 0.0)
+[01:23:30] [Async Chat Thread - #13/INFO]: [Not Secure] <Blinky> I've arrived. I'm at (-2.6, -60.0, -0.3).
+[01:23:30] [Async Chat Thread - #12/INFO]: [Not Secure] <Blinky> Clearing equipment.
+[01:23:30] [Server thread/INFO]: Blinky issued server command: /give @s minecraft:leather_helmet{display:{color:16711680}}
+[01:23:30] [Server thread/INFO]: [Blinky: Gave 1 [Leather Cap] to Blinky]
+[01:23:30] [Async Chat Thread - #13/INFO]: [Not Secure] <Blinky> Equipped leather_helmet
+[01:23:30] [Server thread/INFO]: Blinky issued server command: /give @s minecraft:leather_chestplate{display:{color:16711680}}
+[01:23:30] [Server thread/INFO]: [Blinky: Gave 1 [Leather Tunic] to Blinky]
+[01:23:30] [Async Chat Thread - #12/INFO]: [Not Secure] <Blinky> Equipped leather_chestplate
+[01:23:30] [Server thread/INFO]: Blinky issued server command: /give @s minecraft:leather_leggings{display:{color:16711680}}
+[01:23:30] [Server thread/INFO]: [Blinky: Gave 1 [Leather Pants] to Blinky]
+[01:23:31] [Async Chat Thread - #13/INFO]: [Not Secure] <Blinky> Equipped leather_leggings
+[01:23:31] [Server thread/INFO]: Blinky issued server command: /give @s minecraft:leather_boots{display:{color:16711680}}
+[01:23:31] [Server thread/INFO]: [Blinky: Gave 1 [Leather Boots] to Blinky]
+[01:23:31] [Async Chat Thread - #12/INFO]: [Not Secure] <Blinky> Equipped leather_boots
+[01:23:31] [Async Chat Thread - #13/INFO]: [Not Secure] <Blinky> Now fully equipped.
+[01:23:31] [Async Chat Thread - #12/INFO]: [Not Secure] <Blinky> Going to (0.7, -53.0, -7.2)
+[01:23:33] [Server thread/INFO]: Am0nimus issued server command: /tp Blinky
+[01:23:33] [Server thread/INFO]: [Am0nimus: Teleported Am0nimus to Blinky]
+[01:23:33] [Server thread/WARN]: Am0nimus moved too quickly! -2.217793754244899,-55.0,-3.7762817948860503
+[01:23:33] [Server thread/WARN]: Am0nimus moved too quickly! -2.217793754244899,-55.0,-3.7762817948860503
+[01:23:33] [Server thread/WARN]: Am0nimus moved too quickly! -2.217793754244899,-55.0,-3.7762817948860503
+[01:23:35] [Async Chat Thread - #13/INFO]: [Not Secure] <Blinky> I've arrived. I'm at (-1.5, -53.0, -7.5).
+[01:23:35] [Async Chat Thread - #12/INFO]: [Not Secure] <Blinky> I'm ready.
+[01:23:57] [Server thread/INFO]: Am0nimus issued server command: /kill Clyde
+[01:23:57] [Server thread/INFO]: Clyde was killed
+[01:23:57] [Server thread/INFO]: [Am0nimus: Killed Clyde]
+[01:23:57] [Async Chat Thread - #13/INFO]: [Not Secure] <Clyde> Returning to spawn.
+[01:23:57] [Async Chat Thread - #12/INFO]: [Not Secure] <Clyde> Going to (-4.0, -60.0, 0.0)
+[01:23:58] [Async Chat Thread - #13/INFO]: [Not Secure] <Clyde> I've arrived. I'm at (-1.5, -60.0, 0.5).
+[01:23:58] [Async Chat Thread - #12/INFO]: [Not Secure] <Clyde> Clearing equipment.
+[01:23:58] [Server thread/INFO]: Clyde issued server command: /give @s minecraft:leather_helmet{display:{color:16760576}}
+[01:23:58] [Server thread/INFO]: [Clyde: Gave 1 [Leather Cap] to Clyde]
+[01:23:58] [Async Chat Thread - #13/INFO]: [Not Secure] <Clyde> Equipped leather_helmet
+[01:23:58] [Server thread/INFO]: Clyde issued server command: /give @s minecraft:leather_chestplate{display:{color:16760576}}
+[01:23:58] [Server thread/INFO]: [Clyde: Gave 1 [Leather Tunic] to Clyde]
+[01:23:58] [Async Chat Thread - #12/INFO]: [Not Secure] <Clyde> Equipped leather_chestplate
+[01:23:58] [Server thread/INFO]: Clyde issued server command: /give @s minecraft:leather_leggings{display:{color:16760576}}
+[01:23:58] [Server thread/INFO]: [Clyde: Gave 1 [Leather Pants] to Clyde]
+[01:23:58] [Async Chat Thread - #13/INFO]: [Not Secure] <Clyde> Equipped leather_leggings
+[01:23:58] [Server thread/INFO]: Clyde issued server command: /give @s minecraft:leather_boots{display:{color:16760576}}
+[01:23:58] [Server thread/INFO]: [Clyde: Gave 1 [Leather Boots] to Clyde]
+[01:23:59] [Async Chat Thread - #12/INFO]: [Not Secure] <Clyde> Equipped leather_boots
+[01:23:59] [Async Chat Thread - #13/INFO]: [Not Secure] <Clyde> Now fully equipped.
+[01:23:59] [Async Chat Thread - #12/INFO]: [Not Secure] <Clyde> Going to (0.9, -53.0, -7.4)
+[01:24:01] [Server thread/INFO]: [@: Teleported Am0nimus to 0.500000, 0.000000, 0.500000]
+[01:24:03] [Async Chat Thread - #13/INFO]: [Not Secure] <Clyde> I've arrived. I'm at (-0.6, -53.0, -6.5).
+[01:24:03] [Async Chat Thread - #13/INFO]: [Not Secure] <Clyde> I'm ready.
+[01:24:10] [Server thread/INFO]: Am0nimus issued server command: /tell Pacman start
+[01:24:10] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Game Start!
+[01:24:11] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Left
+[01:24:12] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Right
+[01:24:13] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Right
+[01:24:14] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Right
+[01:24:15] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Right
+[01:24:16] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Right
+[01:24:17] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Right
+[01:24:18] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Right
+[01:24:21] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Right
+[01:24:22] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Left
+[01:24:23] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Left
+[01:24:24] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Left
+[01:24:25] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Left
+[01:24:26] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Right
+[01:24:27] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Down
+[01:24:28] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Down
+[01:24:29] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Down
+[01:24:30] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Down
+[01:24:31] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Down
+[01:24:32] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Up
+[01:24:33] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Up
+[01:24:34] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Up
+[01:24:35] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Up
+[01:24:36] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Up
+[01:24:37] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Up
+[01:24:38] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Up
+[01:24:39] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Up
+[01:24:40] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Up
+[01:24:41] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Up
+[01:24:42] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Up
+[01:24:43] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Up
+[01:24:44] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Up
+[01:24:45] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Up
+[01:24:46] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Up
+[01:24:47] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Up
+[01:24:48] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Up
+[01:24:49] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Up
+[01:24:50] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Up
+[01:24:51] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Up
+[01:24:52] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Up
+[01:24:53] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Up
+[01:24:54] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Up
+[01:24:55] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Up
+[01:24:56] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Up
+[01:24:57] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Up
+[01:24:58] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Up
+[01:24:59] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Up
+[01:25:00] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Up
+[01:25:01] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Up
+[01:25:02] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Up
+[01:25:03] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Up
+[01:25:04] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Up
+[01:25:05] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Up
+[01:25:06] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Up
+[01:25:07] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Up
+[01:25:08] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Up
+[01:25:09] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Up
+[01:25:10] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Up
+[01:25:11] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Up
+[01:25:12] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Up
+[01:25:13] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Up
+[01:25:14] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Up
+[01:25:15] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Up
+[01:25:16] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Up
+[01:25:17] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Up
+[01:25:18] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Up
+[01:25:19] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Up
+[01:25:20] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Up
+[01:25:21] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Up
+[01:25:22] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Up
+[01:25:23] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Up
+[01:25:24] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Up
+[01:25:25] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Up
+[01:25:26] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Up
+[01:25:27] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Up
+[01:25:28] [Server thread/INFO]: Pacman lost connection: Disconnected
+[01:25:28] [Server thread/INFO]: Pacman left the game
+[01:25:28] [Server thread/INFO]: Blinky lost connection: Disconnected
+[01:25:28] [Server thread/INFO]: Blinky left the game
+[01:25:28] [Server thread/INFO]: Pinky lost connection: Disconnected
+[01:25:28] [Server thread/INFO]: Pinky left the game
+[01:25:28] [Server thread/INFO]: Inky lost connection: Disconnected
+[01:25:28] [Server thread/INFO]: Inky left the game
+[01:25:28] [Server thread/INFO]: Clyde lost connection: Disconnected
+[01:25:28] [Server thread/INFO]: Clyde left the game
+[01:25:34] [User Authenticator #22/INFO]: UUID of player Pacman is a577b3fa-03e9-367c-866d-a7c7ecb866d7
+[01:25:34] [User Authenticator #23/INFO]: UUID of player Blinky is dfa9c900-e7ef-3128-9f72-410669215aa6
+[01:25:34] [User Authenticator #24/INFO]: UUID of player Pinky is fa6a69e8-d115-3124-bd72-5b86eff1d55f
+[01:25:34] [User Authenticator #25/INFO]: UUID of player Inky is a0e0d8a8-af27-3226-864b-2f45f8841cbe
+[01:25:34] [User Authenticator #26/INFO]: UUID of player Clyde is afbfda40-9cec-3636-b8bf-8b10c9fad526
+[01:25:34] [Server thread/INFO]: Pacman joined the game
+[01:25:34] [Server thread/INFO]: Pacman[/127.0.0.1:61755] logged in with entity id 154 at ([pacman_bot]0.4996912213391246, -53.0, 11.5)
+[01:25:34] [Server thread/INFO]: Blinky joined the game
+[01:25:34] [Server thread/INFO]: Blinky[/127.0.0.1:61757] logged in with entity id 155 at ([pacman_bot]-1.5, -53.0, -7.5)
+[01:25:34] [Server thread/INFO]: Pinky joined the game
+[01:25:34] [Server thread/INFO]: Pinky[/127.0.0.1:61759] logged in with entity id 156 at ([pacman_bot]2.5, -53.0, -7.538054861164643)
+[01:25:34] [Server thread/INFO]: Inky joined the game
+[01:25:34] [Server thread/INFO]: Inky[/127.0.0.1:61761] logged in with entity id 157 at ([pacman_bot]-2.6067320954714033, -53.0, -7.569727437100224)
+[01:25:34] [Server thread/INFO]: Clyde joined the game
+[01:25:34] [Server thread/INFO]: Clyde[/127.0.0.1:61763] logged in with entity id 158 at ([pacman_bot]-0.5996266812589677, -53.0, -6.499154637911152)
+[01:25:34] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Hello, World!
+[01:25:34] [Server thread/INFO]: Pacman issued server command: /scoreboard objectives setdisplay sidebar
+[01:25:34] [Server thread/INFO]: [Pacman: Cleared any objectives in display slot sidebar]
+[01:25:34] [Server thread/INFO]: Pacman issued server command: /scoreboard objectives remove pellets
+[01:25:34] [Server thread/INFO]: [Pacman: Removed objective [pellets]]
+[01:25:34] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Returning to spawn.
+[01:25:34] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Going to (-4.0, -60.0, 0.0)
+[01:25:35] [Async Chat Thread - #13/INFO]: [Not Secure] <Blinky> Hello, World!
+[01:25:35] [Async Chat Thread - #12/INFO]: [Not Secure] <Blinky> Returning to spawn.
+[01:25:35] [Async Chat Thread - #13/INFO]: [Not Secure] <Blinky> Going to (-4.0, -60.0, 0.0)
+[01:25:35] [Async Chat Thread - #12/INFO]: [Not Secure] <Pinky> Hello, World!
+[01:25:35] [Async Chat Thread - #13/INFO]: [Not Secure] <Pinky> Returning to spawn.
+[01:25:35] [Async Chat Thread - #12/INFO]: [Not Secure] <Pinky> Going to (-4.0, -60.0, 0.0)
+[01:25:35] [Async Chat Thread - #13/INFO]: [Not Secure] <Inky> Hello, World!
+[01:25:35] [Async Chat Thread - #12/INFO]: [Not Secure] <Inky> Returning to spawn.
+[01:25:35] [Async Chat Thread - #13/INFO]: [Not Secure] <Inky> Going to (-4.0, -60.0, 0.0)
+[01:25:35] [Async Chat Thread - #12/INFO]: [Not Secure] <Clyde> Hello, World!
+[01:25:35] [Async Chat Thread - #13/INFO]: [Not Secure] <Clyde> Returning to spawn.
+[01:25:35] [Async Chat Thread - #12/INFO]: [Not Secure] <Clyde> Going to (-4.0, -60.0, 0.0)
+[01:25:36] [Async Chat Thread - #13/INFO]: [Not Secure] <Clyde> Can't get path to (-4.0, -60.0, 0.0)
+[01:25:36] [Async Chat Thread - #12/INFO]: [Not Secure] <Clyde> Clearing equipment.
+[01:25:38] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> I've arrived. I'm at (-2.5, -60.0, 1.5).
+[01:25:38] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Going to (0.0, -53.0, 12.0)
+[01:25:38] [Server thread/INFO]: Clyde issued server command: /give @s minecraft:leather_helmet{display:{color:16760576}}
+[01:25:38] [Server thread/INFO]: [Clyde: Gave 1 [Leather Cap] to Clyde]
+[01:25:38] [Async Chat Thread - #12/INFO]: [Not Secure] <Clyde> Equipped leather_helmet
+[01:25:38] [Server thread/INFO]: Clyde issued server command: /give @s minecraft:leather_chestplate{display:{color:16760576}}
+[01:25:38] [Server thread/INFO]: [Clyde: Gave 1 [Leather Tunic] to Clyde]
+[01:25:39] [Async Chat Thread - #13/INFO]: [Not Secure] <Clyde> Equipped leather_chestplate
+[01:25:39] [Server thread/INFO]: Clyde issued server command: /give @s minecraft:leather_leggings{display:{color:16760576}}
+[01:25:39] [Server thread/INFO]: [Clyde: Gave 1 [Leather Pants] to Clyde]
+[01:25:39] [Async Chat Thread - #12/INFO]: [Not Secure] <Pinky> I've arrived. I'm at (-2.3, -60.0, -0.7).
+[01:25:39] [Async Chat Thread - #13/INFO]: [Not Secure] <Pinky> Clearing equipment.
+[01:25:39] [Server thread/INFO]: Pinky issued server command: /give @s minecraft:leather_helmet{display:{color:16761035}}
+[01:25:39] [Server thread/INFO]: [Pinky: Gave 1 [Leather Cap] to Pinky]
+[01:25:39] [Async Chat Thread - #12/INFO]: [Not Secure] <Clyde> Equipped leather_leggings
+[01:25:39] [Server thread/INFO]: Clyde issued server command: /give @s minecraft:leather_boots{display:{color:16760576}}
+[01:25:39] [Server thread/INFO]: [Clyde: Gave 1 [Leather Boots] to Clyde]
+[01:25:39] [Async Chat Thread - #13/INFO]: [Not Secure] <Pinky> Equipped leather_helmet
+[01:25:39] [Server thread/INFO]: Pinky issued server command: /give @s minecraft:leather_chestplate{display:{color:16761035}}
+[01:25:39] [Server thread/INFO]: [Pinky: Gave 1 [Leather Tunic] to Pinky]
+[01:25:39] [Async Chat Thread - #13/INFO]: [Not Secure] <Blinky> I've arrived. I'm at (-2.5, -60.0, -0.4).
+[01:25:39] [Async Chat Thread - #12/INFO]: [Not Secure] <Blinky> Clearing equipment.
+[01:25:39] [Async Chat Thread - #13/INFO]: [Not Secure] <Inky> I've arrived. I'm at (-2.4, -60.0, -0.5).
+[01:25:39] [Async Chat Thread - #12/INFO]: [Not Secure] <Inky> Clearing equipment.
+[01:25:39] [Server thread/INFO]: Blinky issued server command: /give @s minecraft:leather_helmet{display:{color:16711680}}
+[01:25:39] [Server thread/INFO]: [Blinky: Gave 1 [Leather Cap] to Blinky]
+[01:25:39] [Server thread/INFO]: Inky issued server command: /give @s minecraft:leather_helmet{display:{color:65535}}
+[01:25:39] [Server thread/INFO]: [Inky: Gave 1 [Leather Cap] to Inky]
+[01:25:39] [Async Chat Thread - #13/INFO]: [Not Secure] <Clyde> Equipped leather_boots
+[01:25:39] [Async Chat Thread - #12/INFO]: [Not Secure] <Clyde> Now fully equipped.
+[01:25:39] [Async Chat Thread - #13/INFO]: [Not Secure] <Clyde> Going to (0.3, -53.0, -7.8)
+[01:25:39] [Async Chat Thread - #12/INFO]: [Not Secure] <Blinky> Equipped leather_helmet
+[01:25:39] [Server thread/INFO]: Blinky issued server command: /give @s minecraft:leather_chestplate{display:{color:16711680}}
+[01:25:39] [Server thread/INFO]: [Blinky: Gave 1 [Leather Tunic] to Blinky]
+[01:25:39] [Async Chat Thread - #13/INFO]: [Not Secure] <Pinky> Equipped leather_chestplate
+[01:25:39] [Server thread/INFO]: Pinky issued server command: /give @s minecraft:leather_leggings{display:{color:16761035}}
+[01:25:39] [Server thread/INFO]: [Pinky: Gave 1 [Leather Pants] to Pinky]
+[01:25:39] [Async Chat Thread - #12/INFO]: [Not Secure] <Inky> Equipped leather_helmet
+[01:25:39] [Server thread/INFO]: Inky issued server command: /give @s minecraft:leather_chestplate{display:{color:65535}}
+[01:25:39] [Server thread/INFO]: [Inky: Gave 1 [Leather Tunic] to Inky]
+[01:25:40] [Async Chat Thread - #13/INFO]: [Not Secure] <Blinky> Equipped leather_chestplate
+[01:25:40] [Server thread/INFO]: Blinky issued server command: /give @s minecraft:leather_leggings{display:{color:16711680}}
+[01:25:40] [Server thread/INFO]: [Blinky: Gave 1 [Leather Pants] to Blinky]
+[01:25:40] [Async Chat Thread - #12/INFO]: [Not Secure] <Pinky> Equipped leather_leggings
+[01:25:40] [Server thread/INFO]: Pinky issued server command: /give @s minecraft:leather_boots{display:{color:16761035}}
+[01:25:40] [Server thread/INFO]: [Pinky: Gave 1 [Leather Boots] to Pinky]
+[01:25:40] [Async Chat Thread - #13/INFO]: [Not Secure] <Inky> Equipped leather_chestplate
+[01:25:40] [Server thread/INFO]: Inky issued server command: /give @s minecraft:leather_leggings{display:{color:65535}}
+[01:25:40] [Server thread/INFO]: [Inky: Gave 1 [Leather Pants] to Inky]
+[01:25:40] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> I've arrived. I'm at (0.5, -53.0, 11.5).
+[01:25:40] [Server thread/INFO]: Pacman issued server command: /scoreboard objectives add pellets dummy
+[01:25:40] [Server thread/INFO]: [Pacman: Created new objective [pellets]]
+[01:25:40] [Server thread/INFO]: Pacman issued server command: /scoreboard objectives setdisplay sidebar pellets
+[01:25:40] [Server thread/INFO]: [Pacman: Set display slot sidebar to show objective pellets]
+[01:25:40] [Server thread/INFO]: Pacman issued server command: /scoreboard players set Pacman pellets 244
+[01:25:40] [Server thread/INFO]: [Pacman: Set [pellets] for Pacman to 244]
+[01:25:40] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Objectives set.
+[01:25:40] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> I'm ready.
+[01:25:40] [Async Chat Thread - #13/INFO]: [Not Secure] <Blinky> Equipped leather_leggings
+[01:25:40] [Server thread/INFO]: Blinky issued server command: /give @s minecraft:leather_boots{display:{color:16711680}}
+[01:25:40] [Server thread/INFO]: [Blinky: Gave 1 [Leather Boots] to Blinky]
+[01:25:40] [Async Chat Thread - #12/INFO]: [Not Secure] <Pinky> Equipped leather_boots
+[01:25:40] [Async Chat Thread - #13/INFO]: [Not Secure] <Pinky> Now fully equipped.
+[01:25:40] [Async Chat Thread - #12/INFO]: [Not Secure] <Pinky> Going to (0.6, -53.0, -6.7)
+[01:25:40] [Async Chat Thread - #13/INFO]: [Not Secure] <Inky> Equipped leather_leggings
+[01:25:40] [Server thread/INFO]: Inky issued server command: /give @s minecraft:leather_boots{display:{color:65535}}
+[01:25:40] [Server thread/INFO]: [Inky: Gave 1 [Leather Boots] to Inky]
+[01:25:40] [Async Chat Thread - #12/INFO]: [Not Secure] <Inky> Equipped leather_boots
+[01:25:40] [Async Chat Thread - #13/INFO]: [Not Secure] <Inky> Now fully equipped.
+[01:25:40] [Async Chat Thread - #12/INFO]: [Not Secure] <Inky> Going to (1.0, -53.0, -7.4)
+[01:25:40] [Async Chat Thread - #13/INFO]: [Not Secure] <Blinky> Equipped leather_boots
+[01:25:40] [Async Chat Thread - #12/INFO]: [Not Secure] <Blinky> Now fully equipped.
+[01:25:40] [Async Chat Thread - #13/INFO]: [Not Secure] <Blinky> Going to (0.3, -53.0, -7.7)
+[01:25:44] [Async Chat Thread - #12/INFO]: [Not Secure] <Clyde> I've arrived. I'm at (-1.5, -53.0, -7.5).
+[01:25:44] [Async Chat Thread - #12/INFO]: [Not Secure] <Clyde> I'm ready.
+[01:25:45] [Async Chat Thread - #13/INFO]: [Not Secure] <Pinky> I've arrived. I'm at (2.5, -53.0, -6.5).
+[01:25:45] [Async Chat Thread - #12/INFO]: [Not Secure] <Pinky> I'm ready.
+[01:25:45] [Async Chat Thread - #13/INFO]: [Not Secure] <Inky> I've arrived. I'm at (3.6, -53.0, -7.6).
+[01:25:45] [Async Chat Thread - #12/INFO]: [Not Secure] <Inky> I'm ready.
+[01:25:45] [Async Chat Thread - #13/INFO]: [Not Secure] <Blinky> I've arrived. I'm at (-1.5, -53.0, -7.5).
+[01:25:45] [Async Chat Thread - #13/INFO]: [Not Secure] <Blinky> I'm ready.
+[01:25:51] [Server thread/INFO]: Am0nimus issued server command: /tell Pacman start
+[01:25:51] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Game Start!
+[01:25:52] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Left
+[01:25:53] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Left
+[01:25:54] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Left
+[01:25:55] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Left
+[01:25:56] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Left
+[01:25:57] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Left
+[01:25:58] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Left
+[01:25:59] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Left
+[01:26:00] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Left
+[01:26:01] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Left
+[01:26:02] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Left
+[01:26:03] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Left
+[01:26:04] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Left
+[01:26:05] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Left
+[01:26:06] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Left
+[01:26:07] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Left
+[01:26:08] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Right
+[01:26:09] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Right
+[01:26:10] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Right
+[01:26:11] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Right
+[01:26:12] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Right
+[01:26:13] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Right
+[01:26:14] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Right
+[01:26:15] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Right
+[01:26:16] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Right
+[01:26:17] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Right
+[01:26:18] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Right
+[01:26:19] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Right
+[01:26:20] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Right
+[01:26:21] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Right
+[01:26:22] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Right
+[01:26:22] [Server thread/INFO]: Pacman lost connection: Disconnected
+[01:26:22] [Server thread/INFO]: Pacman left the game
+[01:26:22] [Server thread/INFO]: Blinky lost connection: Disconnected
+[01:26:22] [Server thread/INFO]: Blinky left the game
+[01:26:22] [Server thread/INFO]: Pinky lost connection: Disconnected
+[01:26:22] [Server thread/INFO]: Pinky left the game
+[01:26:22] [Server thread/INFO]: Inky lost connection: Disconnected
+[01:26:22] [Server thread/INFO]: Inky left the game
+[01:26:22] [Server thread/INFO]: Clyde lost connection: Disconnected
+[01:26:22] [Server thread/INFO]: Clyde left the game
+[01:26:27] [User Authenticator #27/INFO]: UUID of player Pacman is a577b3fa-03e9-367c-866d-a7c7ecb866d7
+[01:26:27] [User Authenticator #28/INFO]: UUID of player Blinky is dfa9c900-e7ef-3128-9f72-410669215aa6
+[01:26:27] [User Authenticator #29/INFO]: UUID of player Pinky is fa6a69e8-d115-3124-bd72-5b86eff1d55f
+[01:26:27] [User Authenticator #30/INFO]: UUID of player Inky is a0e0d8a8-af27-3226-864b-2f45f8841cbe
+[01:26:27] [User Authenticator #31/INFO]: UUID of player Clyde is afbfda40-9cec-3636-b8bf-8b10c9fad526
+[01:26:28] [Server thread/INFO]: Pacman joined the game
+[01:26:28] [Server thread/INFO]: Pacman[/127.0.0.1:61777] logged in with entity id 175 at ([pacman_bot]0.49955585430463023, -53.0, 11.5)
+[01:26:28] [Server thread/INFO]: Blinky joined the game
+[01:26:28] [Server thread/INFO]: Blinky[/127.0.0.1:61779] logged in with entity id 176 at ([pacman_bot]-1.5485163844234677, -53.0, -7.538054881506115)
+[01:26:28] [Server thread/INFO]: Pinky joined the game
+[01:26:28] [Server thread/INFO]: Pinky[/127.0.0.1:61781] logged in with entity id 177 at ([pacman_bot]2.5, -53.0, -6.497608616406168)
+[01:26:28] [Server thread/INFO]: Inky joined the game
+[01:26:28] [Server thread/INFO]: Inky[/127.0.0.1:61783] logged in with entity id 178 at ([pacman_bot]3.6063803351077226, -53.0, -7.569693570555791)
+[01:26:28] [Server thread/INFO]: Clyde joined the game
+[01:26:28] [Server thread/INFO]: Clyde[/127.0.0.1:61785] logged in with entity id 179 at ([pacman_bot]-1.4514836155765323, -53.0, -7.538054866250483)
+[01:26:28] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Hello, World!
+[01:26:28] [Server thread/INFO]: Pacman issued server command: /scoreboard objectives setdisplay sidebar
+[01:26:28] [Server thread/INFO]: [Pacman: Cleared any objectives in display slot sidebar]
+[01:26:28] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Returning to spawn.
+[01:26:28] [Server thread/INFO]: Pacman issued server command: /scoreboard objectives remove pellets
+[01:26:28] [Server thread/INFO]: [Pacman: Removed objective [pellets]]
+[01:26:28] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Going to (-4.0, -60.0, 0.0)
+[01:26:28] [Async Chat Thread - #12/INFO]: [Not Secure] <Blinky> Hello, World!
+[01:26:28] [Async Chat Thread - #13/INFO]: [Not Secure] <Blinky> Returning to spawn.
+[01:26:28] [Async Chat Thread - #12/INFO]: [Not Secure] <Blinky> Going to (-4.0, -60.0, 0.0)
+[01:26:29] [Async Chat Thread - #13/INFO]: [Not Secure] <Blinky> Can't get path to (-4.0, -60.0, 0.0)
+[01:26:29] [Async Chat Thread - #12/INFO]: [Not Secure] <Blinky> Clearing equipment.
+[01:26:30] [Async Chat Thread - #13/INFO]: [Not Secure] <Pinky> Hello, World!
+[01:26:30] [Async Chat Thread - #12/INFO]: [Not Secure] <Pinky> Returning to spawn.
+[01:26:30] [Async Chat Thread - #13/INFO]: [Not Secure] <Pinky> Going to (-4.0, -60.0, 0.0)
+[01:26:30] [Async Chat Thread - #12/INFO]: [Not Secure] <Inky> Hello, World!
+[01:26:30] [Async Chat Thread - #13/INFO]: [Not Secure] <Inky> Returning to spawn.
+[01:26:30] [Async Chat Thread - #12/INFO]: [Not Secure] <Inky> Going to (-4.0, -60.0, 0.0)
+[01:26:30] [Async Chat Thread - #13/INFO]: [Not Secure] <Clyde> Hello, World!
+[01:26:30] [Async Chat Thread - #12/INFO]: [Not Secure] <Clyde> Returning to spawn.
+[01:26:30] [Async Chat Thread - #13/INFO]: [Not Secure] <Clyde> Going to (-4.0, -60.0, 0.0)
+[01:26:32] [Async Chat Thread - #12/INFO]: [Not Secure] <Pinky> Can't get path to (-4.0, -60.0, 0.0)
+[01:26:32] [Async Chat Thread - #13/INFO]: [Not Secure] <Pinky> Clearing equipment.
+[01:26:32] [Async Chat Thread - #12/INFO]: [Not Secure] <Inky> Can't get path to (-4.0, -60.0, 0.0)
+[01:26:32] [Async Chat Thread - #13/INFO]: [Not Secure] <Inky> Clearing equipment.
+[01:26:32] [Async Chat Thread - #12/INFO]: [Not Secure] <Clyde> Can't get path to (-4.0, -60.0, 0.0)
+[01:26:32] [Async Chat Thread - #13/INFO]: [Not Secure] <Clyde> Clearing equipment.
+[01:26:33] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> I've arrived. I'm at (-2.5, -60.0, 1.7).
+[01:26:33] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Going to (0.0, -53.0, 12.0)
+[01:26:33] [Server thread/INFO]: Blinky issued server command: /give @s minecraft:leather_helmet{display:{color:16711680}}
+[01:26:33] [Server thread/INFO]: [Blinky: Gave 1 [Leather Cap] to Blinky]
+[01:26:33] [Server thread/INFO]: Pinky issued server command: /give @s minecraft:leather_helmet{display:{color:16761035}}
+[01:26:33] [Server thread/INFO]: [Pinky: Gave 1 [Leather Cap] to Pinky]
+[01:26:33] [Server thread/INFO]: Inky issued server command: /give @s minecraft:leather_helmet{display:{color:65535}}
+[01:26:33] [Server thread/INFO]: [Inky: Gave 1 [Leather Cap] to Inky]
+[01:26:33] [Async Chat Thread - #12/INFO]: [Not Secure] <Blinky> Still don't have leather_helmet
+[01:26:33] [Server thread/INFO]: Clyde issued server command: /give @s minecraft:leather_helmet{display:{color:16760576}}
+[01:26:33] [Server thread/INFO]: [Clyde: Gave 1 [Leather Cap] to Clyde]
+[01:26:33] [Async Chat Thread - #13/INFO]: [Not Secure] <Pinky> Still don't have leather_helmet
+[01:26:33] [Async Chat Thread - #12/INFO]: [Not Secure] <Inky> Still don't have leather_helmet
+[01:26:33] [Async Chat Thread - #13/INFO]: [Not Secure] <Clyde> Still don't have leather_helmet
+[01:26:33] [Async Chat Thread - #12/INFO]: [Not Secure] <Blinky> Still don't have leather_helmet
+[01:26:33] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> I've arrived. I'm at (0.5, -53.0, 11.5).
+[01:26:33] [Server thread/INFO]: Pacman issued server command: /scoreboard objectives add pellets dummy
+[01:26:33] [Server thread/INFO]: [Pacman: Created new objective [pellets]]
+[01:26:33] [Server thread/INFO]: Pacman issued server command: /scoreboard objectives setdisplay sidebar pellets
+[01:26:33] [Server thread/INFO]: [Pacman: Set display slot sidebar to show objective pellets]
+[01:26:33] [Server thread/INFO]: Pacman issued server command: /scoreboard players set Pacman pellets 244
+[01:26:33] [Server thread/INFO]: [Pacman: Set [pellets] for Pacman to 244]
+[01:26:33] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Objectives set.
+[01:26:33] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> I'm ready.
+[01:26:34] [Async Chat Thread - #12/INFO]: [Not Secure] <Pinky> Equipped leather_helmet
+[01:26:34] [Server thread/INFO]: Pinky issued server command: /give @s minecraft:leather_chestplate{display:{color:16761035}}
+[01:26:34] [Server thread/INFO]: [Pinky: Gave 1 [Leather Tunic] to Pinky]
+[01:26:34] [Async Chat Thread - #13/INFO]: [Not Secure] <Blinky> Equipped leather_helmet
+[01:26:34] [Server thread/INFO]: Blinky issued server command: /give @s minecraft:leather_chestplate{display:{color:16711680}}
+[01:26:34] [Server thread/INFO]: [Blinky: Gave 1 [Leather Tunic] to Blinky]
+[01:26:34] [Async Chat Thread - #12/INFO]: [Not Secure] <Inky> Equipped leather_helmet
+[01:26:34] [Server thread/INFO]: Inky issued server command: /give @s minecraft:leather_chestplate{display:{color:65535}}
+[01:26:34] [Server thread/INFO]: [Inky: Gave 1 [Leather Tunic] to Inky]
+[01:26:34] [Async Chat Thread - #13/INFO]: [Not Secure] <Clyde> Equipped leather_helmet
+[01:26:34] [Server thread/INFO]: Clyde issued server command: /give @s minecraft:leather_chestplate{display:{color:16760576}}
+[01:26:34] [Server thread/INFO]: [Clyde: Gave 1 [Leather Tunic] to Clyde]
+[01:26:34] [Async Chat Thread - #12/INFO]: [Not Secure] <Pinky> Equipped leather_chestplate
+[01:26:34] [Server thread/INFO]: Pinky issued server command: /give @s minecraft:leather_leggings{display:{color:16761035}}
+[01:26:34] [Server thread/INFO]: [Pinky: Gave 1 [Leather Pants] to Pinky]
+[01:26:34] [Async Chat Thread - #13/INFO]: [Not Secure] <Clyde> Equipped leather_chestplate
+[01:26:34] [Server thread/INFO]: Clyde issued server command: /give @s minecraft:leather_leggings{display:{color:16760576}}
+[01:26:34] [Server thread/INFO]: [Clyde: Gave 1 [Leather Pants] to Clyde]
+[01:26:34] [Async Chat Thread - #12/INFO]: [Not Secure] <Blinky> Equipped leather_chestplate
+[01:26:34] [Server thread/INFO]: Blinky issued server command: /give @s minecraft:leather_leggings{display:{color:16711680}}
+[01:26:34] [Server thread/INFO]: [Blinky: Gave 1 [Leather Pants] to Blinky]
+[01:26:34] [Async Chat Thread - #13/INFO]: [Not Secure] <Inky> Equipped leather_chestplate
+[01:26:34] [Server thread/INFO]: Inky issued server command: /give @s minecraft:leather_leggings{display:{color:65535}}
+[01:26:34] [Server thread/INFO]: [Inky: Gave 1 [Leather Pants] to Inky]
+[01:26:34] [Async Chat Thread - #12/INFO]: [Not Secure] <Pinky> Equipped leather_leggings
+[01:26:34] [Server thread/INFO]: Pinky issued server command: /give @s minecraft:leather_boots{display:{color:16761035}}
+[01:26:34] [Server thread/INFO]: [Pinky: Gave 1 [Leather Boots] to Pinky]
+[01:26:34] [Async Chat Thread - #13/INFO]: [Not Secure] <Inky> Equipped leather_leggings
+[01:26:34] [Server thread/INFO]: Inky issued server command: /give @s minecraft:leather_boots{display:{color:65535}}
+[01:26:34] [Server thread/INFO]: [Inky: Gave 1 [Leather Boots] to Inky]
+[01:26:34] [Async Chat Thread - #12/INFO]: [Not Secure] <Clyde> Equipped leather_leggings
+[01:26:34] [Server thread/INFO]: Clyde issued server command: /give @s minecraft:leather_boots{display:{color:16760576}}
+[01:26:34] [Server thread/INFO]: [Clyde: Gave 1 [Leather Boots] to Clyde]
+[01:26:34] [Async Chat Thread - #13/INFO]: [Not Secure] <Blinky> Equipped leather_leggings
+[01:26:34] [Server thread/INFO]: Blinky issued server command: /give @s minecraft:leather_boots{display:{color:16711680}}
+[01:26:34] [Server thread/INFO]: [Blinky: Gave 1 [Leather Boots] to Blinky]
+[01:26:34] [Async Chat Thread - #12/INFO]: [Not Secure] <Clyde> Equipped leather_boots
+[01:26:34] [Async Chat Thread - #13/INFO]: [Not Secure] <Clyde> Now fully equipped.
+[01:26:34] [Async Chat Thread - #12/INFO]: [Not Secure] <Clyde> Going to (-0.5, -53.0, -7.3)
+[01:26:34] [Async Chat Thread - #13/INFO]: [Not Secure] <Blinky> Equipped leather_boots
+[01:26:34] [Async Chat Thread - #12/INFO]: [Not Secure] <Blinky> Now fully equipped.
+[01:26:34] [Async Chat Thread - #13/INFO]: [Not Secure] <Blinky> Going to (-0.5, -53.0, -7.9)
+[01:26:34] [Async Chat Thread - #12/INFO]: [Not Secure] <Pinky> Equipped leather_boots
+[01:26:34] [Async Chat Thread - #13/INFO]: [Not Secure] <Pinky> Now fully equipped.
+[01:26:34] [Async Chat Thread - #13/INFO]: [Not Secure] <Pinky> Going to (0.0, -53.0, -7.3)
+[01:26:34] [Async Chat Thread - #12/INFO]: [Not Secure] <Inky> Equipped leather_boots
+[01:26:34] [Async Chat Thread - #13/INFO]: [Not Secure] <Inky> Now fully equipped.
+[01:26:34] [Async Chat Thread - #12/INFO]: [Not Secure] <Inky> Going to (0.9, -53.0, -7.0)
+[01:26:38] [Server thread/INFO]: Am0nimus issued server command: /tell Pacman start
+[01:26:38] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Game Start!
+[01:26:38] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Up
+[01:26:39] [Async Chat Thread - #13/INFO]: [Not Secure] <Blinky> I've arrived. I'm at (-2.6, -53.0, -7.6).
+[01:26:39] [Async Chat Thread - #12/INFO]: [Not Secure] <Blinky> I'm ready.
+[01:26:39] [Async Chat Thread - #13/INFO]: [Not Secure] <Clyde> I've arrived. I'm at (-2.6, -53.0, -7.6).
+[01:26:39] [Async Chat Thread - #13/INFO]: [Not Secure] <Clyde> I'm ready.
+[01:26:39] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Left
+[01:26:39] [Async Chat Thread - #13/INFO]: [Not Secure] <Pinky> I've arrived. I'm at (-1.5, -53.0, -7.5).
+[01:26:39] [Async Chat Thread - #12/INFO]: [Not Secure] <Pinky> I'm ready.
+[01:26:39] [Async Chat Thread - #13/INFO]: [Not Secure] <Inky> I've arrived. I'm at (-1.5, -53.0, -7.5).
+[01:26:39] [Async Chat Thread - #12/INFO]: [Not Secure] <Inky> I'm ready.
+[01:26:40] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Left
+[01:26:41] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Left
+[01:26:42] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Up
+[01:26:44] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Up
+[01:26:45] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Up
+[01:26:46] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Up
+[01:26:47] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Right
+[01:26:48] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Right
+[01:26:49] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Right
+[01:26:50] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Up
+[01:26:51] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Down
+[01:26:52] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Down
+[01:26:58] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Up
+[01:26:58] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Up
+[01:26:59] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Up
+[01:27:00] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Up
+[01:27:01] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Up
+[01:27:24] [Server thread/INFO]: Pacman lost connection: Disconnected
+[01:27:24] [Server thread/INFO]: Pacman left the game
+[01:27:24] [Server thread/INFO]: Blinky lost connection: Disconnected
+[01:27:24] [Server thread/INFO]: Blinky left the game
+[01:27:24] [Server thread/INFO]: Pinky lost connection: Disconnected
+[01:27:24] [Server thread/INFO]: Pinky left the game
+[01:27:24] [Server thread/INFO]: Inky lost connection: Disconnected
+[01:27:24] [Server thread/INFO]: Inky left the game
+[01:27:24] [Server thread/INFO]: Clyde lost connection: Disconnected
+[01:27:24] [Server thread/INFO]: Clyde left the game
+[01:27:29] [User Authenticator #32/INFO]: UUID of player Pacman is a577b3fa-03e9-367c-866d-a7c7ecb866d7
+[01:27:29] [User Authenticator #33/INFO]: UUID of player Blinky is dfa9c900-e7ef-3128-9f72-410669215aa6
+[01:27:29] [User Authenticator #34/INFO]: UUID of player Pinky is fa6a69e8-d115-3124-bd72-5b86eff1d55f
+[01:27:29] [User Authenticator #35/INFO]: UUID of player Inky is a0e0d8a8-af27-3226-864b-2f45f8841cbe
+[01:27:29] [User Authenticator #36/INFO]: UUID of player Clyde is afbfda40-9cec-3636-b8bf-8b10c9fad526
+[01:27:29] [Server thread/INFO]: Pacman joined the game
+[01:27:29] [Server thread/INFO]: Pacman[/127.0.0.1:61802] logged in with entity id 196 at ([pacman_bot]0.4996520351257719, -53.0, 11.5)
+[01:27:29] [Server thread/INFO]: Blinky joined the game
+[01:27:29] [Server thread/INFO]: Blinky[/127.0.0.1:61804] logged in with entity id 197 at ([pacman_bot]-2.558771466410642, -53.0, -7.6182438152797225)
+[01:27:29] [Server thread/INFO]: Pinky joined the game
+[01:27:29] [Server thread/INFO]: Pinky[/127.0.0.1:61806] logged in with entity id 198 at ([pacman_bot]-1.4514836155765323, -53.0, -7.490641065212965)
+[01:27:29] [Server thread/INFO]: Inky joined the game
+[01:27:29] [Server thread/INFO]: Inky[/127.0.0.1:61808] logged in with entity id 199 at ([pacman_bot]-1.5485163844234677, -53.0, -7.585468473063369)
+[01:27:29] [Server thread/INFO]: Clyde joined the game
+[01:27:29] [Server thread/INFO]: Clyde[/127.0.0.1:61810] logged in with entity id 200 at ([pacman_bot]-2.6546926981208285, -53.0, -7.521211046432786)
+[01:27:29] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Hello, World!
+[01:27:29] [Server thread/INFO]: Pacman issued server command: /scoreboard objectives setdisplay sidebar
+[01:27:29] [Server thread/INFO]: [Pacman: Cleared any objectives in display slot sidebar]
+[01:27:29] [Server thread/INFO]: Pacman issued server command: /scoreboard objectives remove pellets
+[01:27:29] [Server thread/INFO]: [Pacman: Removed objective [pellets]]
+[01:27:29] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Returning to spawn.
+[01:27:29] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Going to (-4.0, -60.0, 0.0)
+[01:27:30] [Async Chat Thread - #13/INFO]: [Not Secure] <Pinky> Hello, World!
+[01:27:30] [Async Chat Thread - #12/INFO]: [Not Secure] <Pinky> Returning to spawn.
+[01:27:30] [Async Chat Thread - #13/INFO]: [Not Secure] <Pinky> Going to (-4.0, -60.0, 0.0)
+[01:27:30] [Async Chat Thread - #12/INFO]: [Not Secure] <Blinky> Hello, World!
+[01:27:30] [Async Chat Thread - #13/INFO]: [Not Secure] <Blinky> Returning to spawn.
+[01:27:30] [Async Chat Thread - #12/INFO]: [Not Secure] <Blinky> Going to (-4.0, -60.0, 0.0)
+[01:27:30] [Async Chat Thread - #13/INFO]: [Not Secure] <Clyde> Hello, World!
+[01:27:30] [Async Chat Thread - #12/INFO]: [Not Secure] <Clyde> Returning to spawn.
+[01:27:30] [Async Chat Thread - #13/INFO]: [Not Secure] <Clyde> Going to (-4.0, -60.0, 0.0)
+[01:27:30] [Async Chat Thread - #12/INFO]: [Not Secure] <Inky> Hello, World!
+[01:27:30] [Async Chat Thread - #13/INFO]: [Not Secure] <Inky> Returning to spawn.
+[01:27:30] [Async Chat Thread - #12/INFO]: [Not Secure] <Inky> Going to (-4.0, -60.0, 0.0)
+[01:27:32] [Async Chat Thread - #13/INFO]: [Not Secure] <Blinky> Can't get path to (-4.0, -60.0, 0.0)
+[01:27:32] [Async Chat Thread - #12/INFO]: [Not Secure] <Blinky> Clearing equipment.
+[01:27:32] [Async Chat Thread - #13/INFO]: [Not Secure] <Clyde> Can't get path to (-4.0, -60.0, 0.0)
+[01:27:32] [Async Chat Thread - #12/INFO]: [Not Secure] <Clyde> Clearing equipment.
+[01:27:32] [Async Chat Thread - #13/INFO]: [Not Secure] <Pinky> Can't get path to (-4.0, -60.0, 0.0)
+[01:27:32] [Async Chat Thread - #12/INFO]: [Not Secure] <Pinky> Clearing equipment.
+[01:27:32] [Async Chat Thread - #13/INFO]: [Not Secure] <Inky> Can't get path to (-4.0, -60.0, 0.0)
+[01:27:32] [Async Chat Thread - #12/INFO]: [Not Secure] <Inky> Clearing equipment.
+[01:27:35] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> I've arrived. I'm at (-3.3, -60.0, 2.5).
+[01:27:35] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Going to (0.0, -53.0, 12.0)
+[01:27:36] [Server thread/INFO]: Blinky issued server command: /give @s minecraft:leather_helmet{display:{color:16711680}}
+[01:27:36] [Server thread/INFO]: [Blinky: Gave 1 [Leather Cap] to Blinky]
+[01:27:36] [Server thread/INFO]: Clyde issued server command: /give @s minecraft:leather_helmet{display:{color:16760576}}
+[01:27:36] [Server thread/INFO]: [Clyde: Gave 1 [Leather Cap] to Clyde]
+[01:27:36] [Server thread/INFO]: Pinky issued server command: /give @s minecraft:leather_helmet{display:{color:16761035}}
+[01:27:36] [Server thread/INFO]: [Pinky: Gave 1 [Leather Cap] to Pinky]
+[01:27:36] [Server thread/INFO]: Inky issued server command: /give @s minecraft:leather_helmet{display:{color:65535}}
+[01:27:36] [Server thread/INFO]: [Inky: Gave 1 [Leather Cap] to Inky]
+[01:27:36] [Async Chat Thread - #13/INFO]: [Not Secure] <Blinky> Still don't have leather_helmet
+[01:27:36] [Async Chat Thread - #12/INFO]: [Not Secure] <Clyde> Still don't have leather_helmet
+[01:27:36] [Async Chat Thread - #13/INFO]: [Not Secure] <Pinky> Still don't have leather_helmet
+[01:27:36] [Async Chat Thread - #12/INFO]: [Not Secure] <Inky> Still don't have leather_helmet
+[01:27:36] [Async Chat Thread - #13/INFO]: [Not Secure] <Blinky> Equipped leather_helmet
+[01:27:36] [Server thread/INFO]: Blinky issued server command: /give @s minecraft:leather_chestplate{display:{color:16711680}}
+[01:27:36] [Server thread/INFO]: [Blinky: Gave 1 [Leather Tunic] to Blinky]
+[01:27:36] [Async Chat Thread - #12/INFO]: [Not Secure] <Clyde> Equipped leather_helmet
+[01:27:36] [Server thread/INFO]: Clyde issued server command: /give @s minecraft:leather_chestplate{display:{color:16760576}}
+[01:27:36] [Server thread/INFO]: [Clyde: Gave 1 [Leather Tunic] to Clyde]
+[01:27:36] [Async Chat Thread - #13/INFO]: [Not Secure] <Pinky> Equipped leather_helmet
+[01:27:36] [Server thread/INFO]: Pinky issued server command: /give @s minecraft:leather_chestplate{display:{color:16761035}}
+[01:27:36] [Server thread/INFO]: [Pinky: Gave 1 [Leather Tunic] to Pinky]
+[01:27:36] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> I've arrived. I'm at (0.5, -53.0, 11.4).
+[01:27:36] [Server thread/INFO]: Pacman issued server command: /scoreboard objectives add pellets dummy
+[01:27:36] [Server thread/INFO]: [Pacman: Created new objective [pellets]]
+[01:27:36] [Server thread/INFO]: Pacman issued server command: /scoreboard objectives setdisplay sidebar pellets
+[01:27:36] [Server thread/INFO]: [Pacman: Set display slot sidebar to show objective pellets]
+[01:27:36] [Server thread/INFO]: Pacman issued server command: /scoreboard players set Pacman pellets 244
+[01:27:36] [Server thread/INFO]: [Pacman: Set [pellets] for Pacman to 244]
+[01:27:36] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Objectives set.
+[01:27:36] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> I'm ready.
+[01:27:36] [Async Chat Thread - #13/INFO]: [Not Secure] <Inky> Equipped leather_helmet
+[01:27:36] [Server thread/INFO]: Inky issued server command: /give @s minecraft:leather_chestplate{display:{color:65535}}
+[01:27:36] [Server thread/INFO]: [Inky: Gave 1 [Leather Tunic] to Inky]
+[01:27:36] [Async Chat Thread - #12/INFO]: [Not Secure] <Blinky> Equipped leather_chestplate
+[01:27:36] [Server thread/INFO]: Blinky issued server command: /give @s minecraft:leather_leggings{display:{color:16711680}}
+[01:27:36] [Server thread/INFO]: [Blinky: Gave 1 [Leather Pants] to Blinky]
+[01:27:36] [Async Chat Thread - #13/INFO]: [Not Secure] <Clyde> Equipped leather_chestplate
+[01:27:36] [Server thread/INFO]: Clyde issued server command: /give @s minecraft:leather_leggings{display:{color:16760576}}
+[01:27:36] [Server thread/INFO]: [Clyde: Gave 1 [Leather Pants] to Clyde]
+[01:27:36] [Async Chat Thread - #12/INFO]: [Not Secure] <Pinky> Equipped leather_chestplate
+[01:27:36] [Server thread/INFO]: Pinky issued server command: /give @s minecraft:leather_leggings{display:{color:16761035}}
+[01:27:36] [Server thread/INFO]: [Pinky: Gave 1 [Leather Pants] to Pinky]
+[01:27:36] [Async Chat Thread - #13/INFO]: [Not Secure] <Inky> Equipped leather_chestplate
+[01:27:36] [Server thread/INFO]: Inky issued server command: /give @s minecraft:leather_leggings{display:{color:65535}}
+[01:27:36] [Server thread/INFO]: [Inky: Gave 1 [Leather Pants] to Inky]
+[01:27:36] [Async Chat Thread - #12/INFO]: [Not Secure] <Blinky> Equipped leather_leggings
+[01:27:36] [Server thread/INFO]: Blinky issued server command: /give @s minecraft:leather_boots{display:{color:16711680}}
+[01:27:36] [Server thread/INFO]: [Blinky: Gave 1 [Leather Boots] to Blinky]
+[01:27:36] [Async Chat Thread - #13/INFO]: [Not Secure] <Clyde> Equipped leather_leggings
+[01:27:36] [Server thread/INFO]: Clyde issued server command: /give @s minecraft:leather_boots{display:{color:16760576}}
+[01:27:36] [Server thread/INFO]: [Clyde: Gave 1 [Leather Boots] to Clyde]
+[01:27:36] [Async Chat Thread - #12/INFO]: [Not Secure] <Pinky> Equipped leather_leggings
+[01:27:36] [Server thread/INFO]: Pinky issued server command: /give @s minecraft:leather_boots{display:{color:16761035}}
+[01:27:36] [Server thread/INFO]: [Pinky: Gave 1 [Leather Boots] to Pinky]
+[01:27:36] [Async Chat Thread - #13/INFO]: [Not Secure] <Inky> Equipped leather_leggings
+[01:27:36] [Server thread/INFO]: Inky issued server command: /give @s minecraft:leather_boots{display:{color:65535}}
+[01:27:36] [Server thread/INFO]: [Inky: Gave 1 [Leather Boots] to Inky]
+[01:27:36] [Async Chat Thread - #12/INFO]: [Not Secure] <Blinky> Equipped leather_boots
+[01:27:36] [Async Chat Thread - #13/INFO]: [Not Secure] <Blinky> Now fully equipped.
+[01:27:36] [Async Chat Thread - #12/INFO]: [Not Secure] <Blinky> Going to (-0.0, -53.0, -7.4)
+[01:27:36] [Async Chat Thread - #13/INFO]: [Not Secure] <Clyde> Equipped leather_boots
+[01:27:36] [Async Chat Thread - #12/INFO]: [Not Secure] <Clyde> Now fully equipped.
+[01:27:36] [Async Chat Thread - #13/INFO]: [Not Secure] <Clyde> Going to (1.3, -53.0, -7.5)
+[01:27:36] [Async Chat Thread - #12/INFO]: [Not Secure] <Pinky> Equipped leather_boots
+[01:27:36] [Async Chat Thread - #13/INFO]: [Not Secure] <Pinky> Now fully equipped.
+[01:27:36] [Async Chat Thread - #12/INFO]: [Not Secure] <Pinky> Going to (-0.3, -53.0, -8.0)
+[01:27:36] [Async Chat Thread - #13/INFO]: [Not Secure] <Inky> Equipped leather_boots
+[01:27:36] [Async Chat Thread - #12/INFO]: [Not Secure] <Inky> Now fully equipped.
+[01:27:36] [Async Chat Thread - #13/INFO]: [Not Secure] <Inky> Going to (-0.1, -53.0, -8.4)
+[01:27:41] [Async Chat Thread - #12/INFO]: [Not Secure] <Blinky> I've arrived. I'm at (-2.6, -53.0, -7.6).
+[01:27:41] [Async Chat Thread - #13/INFO]: [Not Secure] <Blinky> I'm ready.
+[01:27:41] [Async Chat Thread - #12/INFO]: [Not Secure] <Clyde> I've arrived. I'm at (3.6, -53.0, -7.6).
+[01:27:41] [Async Chat Thread - #13/INFO]: [Not Secure] <Clyde> I'm ready.
+[01:27:41] [Async Chat Thread - #12/INFO]: [Not Secure] <Pinky> I've arrived. I'm at (-1.5, -53.0, -7.5).
+[01:27:41] [Async Chat Thread - #13/INFO]: [Not Secure] <Pinky> I'm ready.
+[01:27:42] [Async Chat Thread - #12/INFO]: [Not Secure] <Inky> I've arrived. I'm at (-1.5, -53.0, -7.5).
+[01:27:42] [Async Chat Thread - #13/INFO]: [Not Secure] <Inky> I'm ready.
+[01:27:43] [Server thread/INFO]: Am0nimus issued server command: /tell Pacman start
+[01:27:43] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Game Start!
+[01:27:45] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Left
+[01:27:46] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Left
+[01:27:47] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Left
+[01:27:48] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Right
+[01:27:49] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Right
+[01:27:50] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Right
+[01:27:51] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Down
+[01:27:52] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Down
+[01:27:53] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Down
+[01:27:54] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Up
+[01:27:55] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Up
+[01:27:56] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Up
+[01:27:59] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Left
+[01:28:01] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Left
+[01:28:05] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Left
+[01:28:06] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Left
+[01:28:07] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Up
+[01:28:08] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Up
+[01:28:10] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Right
+[01:28:11] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Right
+[01:28:12] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Down
+[01:28:33] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Right
+[01:28:33] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Right
+[01:28:35] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Right
+[01:28:35] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Right
+[01:28:37] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Right
+[01:28:37] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Right
+[01:28:39] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Right
+[01:28:39] [Server thread/INFO]: Am0nimus issued server command: /kill Inky
+[01:28:39] [Server thread/INFO]: Inky was killed
+[01:28:39] [Server thread/INFO]: [Am0nimus: Killed Inky]
+[01:28:39] [Async Chat Thread - #13/INFO]: [Not Secure] <Inky> Returning to spawn.
+[01:28:39] [Async Chat Thread - #12/INFO]: [Not Secure] <Inky> Going to (-4.0, -60.0, 0.0)
+[01:28:40] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Right
+[01:28:40] [Async Chat Thread - #12/INFO]: [Not Secure] <Inky> I've arrived. I'm at (-1.5, -60.0, 0.5).
+[01:28:40] [Async Chat Thread - #13/INFO]: [Not Secure] <Inky> Clearing equipment.
+[01:28:40] [Server thread/INFO]: Inky issued server command: /give @s minecraft:leather_helmet{display:{color:65535}}
+[01:28:40] [Server thread/INFO]: [Inky: Gave 1 [Leather Cap] to Inky]
+[01:28:40] [Async Chat Thread - #12/INFO]: [Not Secure] <Inky> Equipped leather_helmet
+[01:28:40] [Server thread/INFO]: Inky issued server command: /give @s minecraft:leather_chestplate{display:{color:65535}}
+[01:28:40] [Server thread/INFO]: [Inky: Gave 1 [Leather Tunic] to Inky]
+[01:28:40] [Async Chat Thread - #13/INFO]: [Not Secure] <Inky> Equipped leather_chestplate
+[01:28:40] [Server thread/INFO]: Inky issued server command: /give @s minecraft:leather_leggings{display:{color:65535}}
+[01:28:40] [Server thread/INFO]: [Inky: Gave 1 [Leather Pants] to Inky]
+[01:28:40] [Async Chat Thread - #12/INFO]: [Not Secure] <Inky> Equipped leather_leggings
+[01:28:40] [Server thread/INFO]: Inky issued server command: /give @s minecraft:leather_boots{display:{color:65535}}
+[01:28:40] [Server thread/INFO]: [Inky: Gave 1 [Leather Boots] to Inky]
+[01:28:41] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Right
+[01:28:41] [Async Chat Thread - #12/INFO]: [Not Secure] <Inky> Equipped leather_boots
+[01:28:41] [Async Chat Thread - #13/INFO]: [Not Secure] <Inky> Now fully equipped.
+[01:28:41] [Async Chat Thread - #12/INFO]: [Not Secure] <Inky> Going to (-0.3, -53.0, -7.6)
+[01:28:42] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Right
+[01:28:43] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Right
+[01:28:43] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Right
+[01:28:45] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Right
+[01:28:45] [Async Chat Thread - #13/INFO]: [Not Secure] <Inky> I've arrived. I'm at (-1.5, -53.0, -6.5).
+[01:28:45] [Async Chat Thread - #13/INFO]: [Not Secure] <Inky> I'm ready.
+[01:28:46] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Right
+[01:28:47] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Right
+[01:28:48] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Right
+[01:28:49] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Right
+[01:28:50] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Right
+[01:28:51] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Right
+[01:28:52] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Right
+[01:28:53] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Right
+[01:28:54] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Right
+[01:28:55] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Right
+[01:28:56] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Right
+[01:28:57] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Right
+[01:29:00] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Right
+[01:29:01] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Right
+[01:29:02] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Right
+[01:29:03] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Right
+[01:29:04] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Right
+[01:29:05] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Right
+[01:29:06] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Right
+[01:29:07] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Right
+[01:29:08] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Right
+[01:29:09] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Right
+[01:29:10] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Right
+[01:29:11] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Right
+[01:29:12] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Right
+[01:29:13] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Right
+[01:29:14] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Right
+[01:29:15] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Right
+[01:29:16] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Right
+[01:29:17] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Right
+[01:29:18] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Right
+[01:29:19] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Right
+[01:29:20] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Right
+[01:29:21] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Right
+[01:29:22] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Right
+[01:29:23] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Right
+[01:29:24] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Right
+[01:29:25] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Right
+[01:29:26] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Right
+[01:29:27] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Right
+[01:29:28] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Right
+[01:29:29] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Right
+[01:29:30] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Right
+[01:29:31] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Right
+[01:29:32] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Right
+[01:29:33] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Right
+[01:29:34] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Right
+[01:29:35] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Right
+[01:29:36] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Right
+[01:29:37] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Right
+[01:29:38] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Right
+[01:29:39] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Right
+[01:29:40] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Right
+[01:29:41] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Right
+[01:29:42] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Right
+[01:29:43] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Right
+[01:29:44] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Right
+[01:29:45] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Right
+[01:29:46] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Right
+[01:29:47] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Right
+[01:29:48] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Down
+[01:29:49] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Down
+[01:29:50] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Down
+[01:29:51] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Down
+[01:29:52] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Down
+[01:29:53] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Down
+[01:29:54] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Down
+[01:29:55] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Down
+[01:29:56] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Down
+[01:29:57] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Down
+[01:29:58] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Down
+[01:29:59] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Down
+[01:30:00] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Down
+[01:30:01] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Down
+[01:30:02] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Down
+[01:30:03] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Down
+[01:30:04] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Down
+[01:30:05] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Down
+[01:30:06] [Async Chat Thread - #13/INFO]: [Not Secure] <Pacman> Down
+[01:30:07] [Async Chat Thread - #12/INFO]: [Not Secure] <Pacman> Down
+[01:30:46] [Server thread/INFO]: [@: Teleported Am0nimus to -23.500000, -52.500000, -6.500000]
+[01:31:18] [Server thread/INFO]: Pacman lost connection: Disconnected
+[01:31:18] [Server thread/INFO]: Pacman left the game
+[01:31:18] [Server thread/INFO]: Blinky lost connection: Disconnected
+[01:31:18] [Server thread/INFO]: Blinky left the game
+[01:31:18] [Server thread/INFO]: Pinky lost connection: Disconnected
+[01:31:18] [Server thread/INFO]: Pinky left the game
+[01:31:18] [Server thread/INFO]: Inky lost connection: Disconnected
+[01:31:18] [Server thread/INFO]: Inky left the game
+[01:31:18] [Server thread/INFO]: Clyde lost connection: Disconnected
+[01:31:18] [Server thread/INFO]: Clyde left the game
